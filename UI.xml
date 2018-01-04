@@ -660,124 +660,124 @@ Você quer tomar um empréstimo no valor de {1} para evitar a falência?</Item>
 		<Item Name="Decoration">Decoração</Item>
 	</BuildMode>
 	<RightClick>
-		<Item Name="ActionPair">Assign furniture to employee</Item>
-		<Item Name="ActionDefault Style">Set as default style</Item>
-		<Item Name="ActionUnify Style">Unify style of selected elements</Item>
-		<Item Name="ActionRoom Color">Room colors</Item>
-		<Item Name="ActionEducate">Educate employee</Item>
-		<Item Name="ActionDismiss">Dismiss employee</Item>
-		<Item Name="ActionSell">Sell furniture</Item>
-		<Item Name="ActionDestroy">Destroy room</Item>
-		<Item Name="ActionChange Team">Switch team</Item>
-		<Item Name="ActionLimit Use">Limit room usage</Item>
-		<Item Name="ActionSelect Building">Select entire building</Item>
-		<Item Name="ActionChange Role">Change employee role</Item>
-		<Item Name="ActionSend home">Send employee home</Item>
-		<Item Name="ActionFurniture color">Furniture color</Item>
-		<Item Name="ActionTypes in Room">Select furniture types in selected rooms</Item>
-		<Item Name="ActionDetails">Employee details</Item>
-		<Item Name="ActionChange Salary">Change employee salary</Item>
-		<Item Name="ActionSelect Team">Select entire team</Item>
-		<Item Name="ActionSelect Owned">Select furniture assigned to employee</Item>
-		<Item Name="ActionSelect Staff">Select employees in room</Item>
-		<Item Name="ActionUnpair">Unassign furniture</Item>
-		<Item Name="ActionPair Use">Assign the furniture being used by employee</Item>
-		<Item Name="ActionUpgrade">Upgrade furniture to next tier</Item>
-		<Item Name="ActionMove">Move furniture</Item>
+		<Item Name="ActionPair">Atribuir mobiliário ao empregado</Item>
+		<Item Name="ActionDefault Style">Definir como estilo padrão</Item>
+		<Item Name="ActionUnify Style">Unificar o estilo dos elementos selecionados</Item>
+		<Item Name="ActionRoom Color">Cores da sala</Item>
+		<Item Name="ActionEducate">Educar empregado</Item>
+		<Item Name="ActionDismiss">Dispensar empregado</Item>
+		<Item Name="ActionSell">Venda de móveis</Item>
+		<Item Name="ActionDestroy">Destrua o quarto</Item>
+		<Item Name="ActionChange Team">Trocar equipe</Item>
+		<Item Name="ActionLimit Use">Limitar o uso da sala</Item>
+		<Item Name="ActionSelect Building">Selecione todo o edifício</Item>
+		<Item Name="ActionChange Role">Alterar função empregado</Item>
+		<Item Name="ActionSend home">Mandar pra casa o funcionário</Item>
+		<Item Name="ActionFurniture color">Cor da mobília</Item>
+		<Item Name="ActionTypes in Room">Selecione os tipos de móveis nas salas selecionadas</Item>
+		<Item Name="ActionDetails">Detalhes do empregado</Item>
+		<Item Name="ActionChange Salary">Alterar o salário do empregado</Item>
+		<Item Name="ActionSelect Team">Selecione toda a equipe</Item>
+		<Item Name="ActionSelect Owned">Selecionar mobiliário atribuído ao funcionário</Item>
+		<Item Name="ActionSelect Staff">Selecione funcionários no quarto</Item>
+		<Item Name="ActionUnpair">Desassociar mobiliário</Item>
+		<Item Name="ActionPair Use">Atribua a mobília usada pelo funcionário</Item>
+		<Item Name="ActionUpgrade">Atualize o mobiliário para o próximo nível</Item>
+		<Item Name="ActionMove">Mover móveis</Item>
 	</RightClick>
 	<ProductWindow>
-		<Item Name="ProductChooseGeneric">Choose {0}</Item>
-		<Item Name="ProductChooseOS">Choose Operating System</Item>
-		<Item Name="ProductChooseSequel">Choose Sequel</Item>
-		<Item Name="PlayerReleases">My Releases</Item>
-		<Item Name="AllReleaes">All releases</Item>
-		<Item Name="CompanyReleases">Products for {0}</Item>
+		<Item Name="ProductChooseGeneric">Escolher {0}</Item>
+		<Item Name="ProductChooseOS">Escolha o sistema operacional</Item>
+		<Item Name="ProductChooseSequel">Escolha a sequência</Item>
+		<Item Name="PlayerReleases">Meus lançamentos</Item>
+		<Item Name="AllReleaes">Todos os lançamentos</Item>
+		<Item Name="CompanyReleases">Produtos para {0}</Item>
 	</ProductWindow>
 	<WorkItems>
-		<Item Name="SupportTickets">{0} tickets in queue</Item>
-		<Item Name="CancelSupport">Cancel support</Item>
-		<Item Name="MarketingFundsOut">You have run out of funds to support your marketing campaign</Item>
-		<Item Name="MarketingStage">Talking to press</Item>
-		<Item Name="MarketingBalance">Net</Item>
-		<Item Name="DesignStageStockWait">Waiting for approval</Item>
-		<Item Name="DesignStageDesigning">Designing</Item>
-		<Item Name="ThrowOutAuto">Throw out</Item>
-		<Item Name="DesignWaitLabel">Waiting</Item>
-		<Item Name="WorkItemQuality">Expected quality</Item>
-		<Item Name="DesignNoProgress">This design has no redeeming features and cannot be promoted to development</Item>
-		<Item Name="DesignNoProgressTitle">Cannot develop</Item>
-		<Item Name="AlphaNoProgress">Cannot promote alpha since no work has been done</Item>
-		<Item Name="AlphaNoProgressTitle">Cannot promote</Item>
-		<Item Name="ContractCancel">Lost {0} for cancelling contract</Item>
-		<Item Name="ContractFinish">Finished contract for a net worth of {0}</Item>
+		<Item Name="SupportTickets">{0} requisiçoes na fila</Item>
+		<Item Name="CancelSupport">Cancelar suporte</Item>
+		<Item Name="MarketingFundsOut">Você ficou sem dinheiro sua campanha de marketing</Item>
+		<Item Name="MarketingStage">Falando com a impressa</Item>
+		<Item Name="MarketingBalance">Rede</Item>
+		<Item Name="DesignStageStockWait">Esperando aprovação</Item>
+		<Item Name="DesignStageDesigning">Projetando</Item>
+		<Item Name="ThrowOutAuto">Jogar fora</Item>
+		<Item Name="DesignWaitLabel">Esperando</Item>
+		<Item Name="WorkItemQuality">Qualidade esperada</Item>
+		<Item Name="DesignNoProgress">Este design não tem recursos redimíveis e não pode ser promovido para desenvolvimento</Item>
+		<Item Name="DesignNoProgressTitle">Não pode desenvolver</Item>
+		<Item Name="AlphaNoProgress">Não é possível promover para alfa, uma vez que nenhum trabalho foi feito</Item>
+		<Item Name="AlphaNoProgressTitle">Não é possível promover</Item>
+		<Item Name="ContractCancel">Custa {0} para cancelar o contrato</Item>
+		<Item Name="ContractFinish">Contrato terminou para um lucro de {0}</Item>
 		<Item Name="Alpha">Alpha</Item>
 		<Item Name="Beta">Beta</Item>
-		<Item Name="Promote">Promote</Item>
-		<Item Name="Release">Release</Item>
+		<Item Name="Promote">Promover</Item>
+		<Item Name="Release">Lançar</Item>
 		<Item Name="Delay">Delay</Item>
-		<Item Name="NoBugs">No bugs to fix</Item>
-		<Item Name="StillBugs">Fixed {0} bugs</Item>
-		<Item Name="ReleaseMarketingHint">Do you want to start a marketing campaign for {0} now?
-Marketing is crucial for your products' success.
-You can start a marketing campaign after releasing a product at any time by clicking the "Your Releases" button</Item>
+		<Item Name="NoBugs">Nenhum bug para consertar</Item>
+		<Item Name="StillBugs">Consertado {0} bugs</Item>
+		<Item Name="ReleaseMarketingHint">Você quer iniciar uma campanha de marketing para {0} agora?
+O marketing é crucial para o sucesso de seus produtos.
+Você pode iniciar uma campanha de marketing depois de lançar um produto a qualquer momento clicando no botão "Seus lançamentos"</Item>
 	</WorkItems>
 	<Clothing>
-		<Item Name="Skirt">Skirt</Item>
-		<Item Name="T-shirt">T-shirt</Item>
-		<Item Name="Jacket">Jacket</Item>
-		<Item Name="Pants">Pants</Item>
-		<Item Name="Shorts">Shorts</Item>
-		<Item Name="Shirt">Shirt</Item>
+		<Item Name="Skirt">Saia</Item>
+		<Item Name="T-shirt">Camiseta</Item>
+		<Item Name="Jacket">Jaqueta</Item>
+		<Item Name="Pants">Calças</Item>
+		<Item Name="Shorts">Bermudas</Item>
+		<Item Name="Shirt">Camisa</Item>
 	</Clothing>
 	<Goal>
-		<Item Name="MoneyGoal">Have {0} on your account</Item>
-		<Item Name="DateGoal">Win before {0}</Item>
-		<Item Name="NothingGoal">Nothing</Item>
+		<Item Name="MoneyGoal">Possuir {0} na sua conta</Item>
+		<Item Name="DateGoal">Ganhe antes {0}</Item>
+		<Item Name="NothingGoal">Nada</Item>
 	</Goal>
 	<ProductDetails>
-		<Item Name="Innovation">Innovation</Item>
-		<Item Name="Stability">Stability</Item>
-		<Item Name="Usability">Usability</Item>
-		<Item Name="Operating systems">Operating systems</Item>
-		<Item Name="ProductNeeds">Needs</Item>
-		<Item Name="Franchise">Franchise</Item>
-		<Item Name="Used in">Used in</Item>
-		<Item Name="Features">Features</Item>
-		<Item Name="Take off market">Take off market</Item>
-		<Item Name="Put on market">Put on market</Item>
-		<Item Name="ProductDetailTitle">Details for {0}</Item>
-		<Item Name="ProductDetailLeftText">Name: {0}
-Company: {1}({2})
-Type: {4} {3}
-Open Source: {5}
-In-house: {6}
-Release date: {7}</Item>
-		<Item Name="ProductDetailRightText">Quality: {0}
-Perception: {1}
-Popularity: {2}
-License cost: {3}
-Gross: {4}
-Loss: {5}</Item>
+		<Item Name="Innovation">Inovação</Item>
+		<Item Name="Stability">Estabilidade</Item>
+		<Item Name="Usability">Usabilidade</Item>
+		<Item Name="Operating systems">Sistemas operacionais</Item>
+		<Item Name="ProductNeeds">Necessidades</Item>
+		<Item Name="Franchise">Franquia</Item>
+		<Item Name="Used in">Usado em</Item>
+		<Item Name="Features">Características</Item>
+		<Item Name="Take off market">Retire do mercado</Item>
+		<Item Name="Put on market">Coloque no mercado</Item>
+		<Item Name="ProductDetailTitle">Detalhes para {0}</Item>
+		<Item Name="ProductDetailLeftText">Nome: {0}
+Empresa: {1}({2})
+Tipo: {4} {3}
+Código Aberto: {5}
+Interno: {6}
+Data de lançamento: {7}</Item>
+		<Item Name="ProductDetailRightText">Qualidade: {0}
+Percepção: {1}
+Popularidade: {2}
+Custo da licença: {3}
+Bruto: {4}
+Custo: {5}</Item>
 	</ProductDetails>
 	<FurnitureQuality>
-		<Item Name="Broken">Broken</Item>
-		<Item Name="Calcified">Calcified</Item>
-		<Item Name="Clean">Clean</Item>
-		<Item Name="Bulb died">Bulb died</Item>
-		<Item Name="Flickering">Flickering</Item>
-		<Item Name="Dim">Dim</Item>
-		<Item Name="Bright">Bright</Item>
-		<Item Name="Burned out">Burned out</Item>
-		<Item Name="Hardly working">Hardly working</Item>
-		<Item Name="Capable">Capable</Item>
-		<Item Name="Effecient">Efficient</Item>
-		<Item Name="Overpowered">Overpowered</Item>
-		<Item Name="Somewhat working">Somewhat working</Item>
-		<Item Name="FurnWorking">Working</Item>
-		<Item Name="Clogged">Clogged</Item>
-		<Item Name="Disgusting">Disgusting</Item>
-		<Item Name="Brown water">Brown water</Item>
-		<Item Name="Shiny">Shiny</Item>
+		<Item Name="Broken">Quebrado</Item>
+		<Item Name="Calcified">Petrificado</Item>
+		<Item Name="Clean">Limpo</Item>
+		<Item Name="Bulb died">Lâmpada quebrada</Item>
+		<Item Name="Flickering">Ocilante</Item>
+		<Item Name="Dim">Fraco</Item>
+		<Item Name="Bright">Brilhante</Item>
+		<Item Name="Burned out">Queimado</Item>
+		<Item Name="Hardly working">Mal funciona</Item>
+		<Item Name="Capable">Hábil</Item>
+		<Item Name="Effecient">Eficiente</Item>
+		<Item Name="Overpowered">Superado</Item>
+		<Item Name="Somewhat working">funciona mais ou menos</Item>
+		<Item Name="FurnWorking">Trabalhando</Item>
+		<Item Name="Clogged">Entupido</Item>
+		<Item Name="Disgusting">Desagradável</Item>
+		<Item Name="Brown water">Água marrom</Item>
+		<Item Name="Shiny">Reluzente</Item>
 	</FurnitureQuality>
 	<Item Name="WireModeLongHint">Clique com o botão esquerdo do mouse em um servidor para selecioná-lo e clique em outro servidor para conectá-lo.
 
@@ -786,8 +786,8 @@ Clique com o botão esquerdo em qualquer outro lugar ou clique duas vezes para d
 Clique com o botão direito para desmarcar e cancelar.</Item>
 	<Item Name="Noisiness">Ruído</Item>
 	<Item Name="State">Estado</Item>
-	<Item Name="YearsPostfix">anos</Item>
-	<Item Name="MonthsPostfix">meses</Item>
+	<Item Name="YearsPostfix">Anos</Item>
+	<Item Name="MonthsPostfix">Meses</Item>
 	<Item Name="Assign">Atribuir</Item>
 	<Item Name="Unassigned">Não atribuído</Item>
 	<Item Name="SaveName">Digite o nome de salvar...</Item>
