@@ -1,66 +1,66 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Your design has now been promoted to implementation.
+	<Message id="ALPHA WORK1">Seu design foi promovido para a implementação.
 
-The implementation phase has three stages:
+A fase de implementação tem três etapas:
 
-1. "Alpha", in which developers and artists create the product according to the design specifications and requirements.
+1. "Alpha", em que desenvolvedores e artistas criam o produto de acordo com as especificações e requisitos de projeto.
 
-2. "Delay", depending on how competent your employees are, unexpected issues may crop up during alpha, which need to be addressed before moving on.
+2. "Delay", Dependendo de quão competente os seus funcionários são, problemas inesperados podem surgir durante alfa, que precisam ser abordados antes de seguir em frente.
 
-3. "Beta", in which bugs are uncovered by your programmers and hopefully fixed before the final release.</Message>
-	<Message id="ALPHA WORK2">Depending on whether your software has any code or art your will see "code" and "art" units increase. These tell you roughly how much work is getting done, the higher the numbers are, the closer the product is to being complete.
+3. "Beta", em que os bugs são descobertos por seus programadores e, esperamos, corrigidos antes da versão final.</Message>
+	<Message id="ALPHA WORK2">Dependendo de se o seu software possui algum código ou arte, verá as unidades "código" e "arte" aumentarem. Estes tw informam mais ou menos quanto trabalho está sendo feito, quanto maior os números, quanto mais próximo o produto está a ser finalizado.
 		
-These numbers tell nothing of the actual quality of the code and art, though. To get an idea of how good your employees' work is, you need to do a peer review, start by pressing the review button and select Team.</Message>
-	<Message id="ALPHA WORK3">When your product has received some reviews, press the end button to see the results. Note that the review is based on your product as it was when you started the review, so any work done in the mean time will not be counted.</Message>
-	<Message id="ALPHA WORK4">The final score will be higher or lower than the actual quality based on who reviewed it. The team that developed the software will probably say it's better than it actually is.
+Esses números não contam nada sobre a qualidade real do código e da arte. Para ter uma idéia se o trabalho de seus funcionários é bom, você precisa fazer uma revisão por pares, comece pressionando o botão de revisão e selecione Equipe.</Message>
+	<Message id="ALPHA WORK3">Quando seu produto recebeu algumas avaliações, pressione o botão de fim para ver os resultados. Observe que a revisão é baseada em seu produto como era quando você iniciou a revisão, então qualquer trabalho feito depois não será contado.</Message>
+	<Message id="ALPHA WORK4">O resultado final será maior ou menor do que a qualidade real com base em quem o analisou. A equipe que desenvolveu o software provavelmente direi que é melhor do que realmente é.
 
-You can scroll through the review to see how the reviewers scored different aspects of your software. The quality of the art and code can vary through development based on the skill of your employees and does not depend on how much work has been done.</Message>
-	<Message id="ALPHA WORK5">Make sure you do a press release during development as well.
+Você pode analisasr a revisão para ver como os revisores obtiveram diferentes aspectos do seu software. A qualidade da arte e do código pode variar através do desenvolvimento com base na habilidade de seus funcionários e não depende da quantidade de trabalho realizado.</Message>
+	<Message id="ALPHA WORK5">Lembre-se de fazer um comunicado de imprensa durante o desenvolvimento também.
 
-During development you also have the option to send out a press build, so the press can try your software. Press builds require no work on your part, but make sure you have good ratings in your peer reviews and some followers before you send one out.</Message>
-	<Message id="ALPHA WORK6">Press the Promote button to move on to the delay phase when you are ready and the project will move on to the beta phase automatically.</Message>
-	<Message id="ALPHA WORK7">The beta phase is theoretically endless, but you'll have to release your project at some point, especially if you've already announced a release date.
+Durante o desenvolvimento, você também tem a opção de enviar uma versão de imprensa, para que a imprensa possa experimentar seu software. As versões de imprensa não requerem nenhum trabalho da sua parte, mas lembre-se de ter boas classificações em suas avaliações de pares e alguns seguidores antes de enviar uma.</Message>
+	<Message id="ALPHA WORK6">Pressione o botão Promover para avançar para a fase de deley quando você estiver pronto e o projeto passará para a fase beta automaticamente.</Message>
+	<Message id="ALPHA WORK7">A fase beta é teoricamente infinita, mas você terá que lançar seu projeto em algum momento, especialmente se você já anunciou uma data de lançamento.
 
-It's a good idea to fix as many bugs as possible, as buggy products will lead to refunds, but don't aim to fix every possible bug in your product. When your product is released you'll be able to fix more bugs, as your customers get in contact with your support team.</Message>
-	<Message id="ALPHA WORK8">Press the release button when you're ready.
+É uma boa ideia consertar o máximo de bugs possível, pois os produtos bugados resutam em reembolsos, mas não queira corrigir todos os erros possíveis no seu produto. Quando o seu produto for lançado, você poderá consertar mais erros, à medida que seus clientes entrarem em contato com sua equipe de suporte.</Message>
+	<Message id="ALPHA WORK8">Pressione o botão de lançamento quando estiver pronto.
 		
-When you release your product you'll have to buy or print physical copies of it to sell. Later on, online software distribution will become more popular, but it is very important to have physical copies of your product before and during the 90s.
+Quando você liberar seu produto, você terá que comprar ou imprimir cópias físicas para vender. Mais tarde, a distribuição de software online se tornará mais popular, mas é muito importante ter cópias físicas do seu produto antes e durante a década de 90.
 		
-You can either print physical copies yourself or order some to have immediatly for a higher price. The game will remind you of this everytime you release a product.</Message>
-	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
-	<Message id="BUILD MODE2">The game is always paused in build mode.
+Você pode imprimir cópias físicas você mesmo ou mandar imprimir fora imediatamente por um preço mais alto. O jogo irá perguntar-lo sempre que você lançar um produto.</Message>
+	<Message id="BUILD MODE1">Comece entrando no "modo de construção", clicando no botão construir.</Message>
+	<Message id="BUILD MODE2">O jogo é sempre pausado no modo de construção.
 
-Let's start by building a room. You have two choices for how you want to build a room.
+Vamos começar por construir uma sala. Você tem duas opções para construir uma sala.
 
-Click on the "Construct rectangle room" button in the build panel to build a simple rectangle room or click the "Construct room" button to build rooms in any shape you want, one wall at a time.
+Clique no botão "Construir sala de retângulos" no painel de compilação para construir uma sala de retângulo simples ou clique no botão "Construir sala" para construir salas de qualquer forma que desejar, uma parede por vez.
 
-You can also use the "Construct room" option to split rooms into two separate rooms, by simply building a wall through a room.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using the panel to the left. This might come in handy if you want to build tables along a diagonal wall for example.
+Você também pode usar a opção "Construir sala" para dividir as salas em duas salas separadas, simplesmente construindo uma parede através de uma sala.</Message>
+	<Message id="BUILD MODE3"> Agora, clique em algum lugar dentro da área que você possui, que tem uma grade e, em seguida, clique em outro lugar para terminar sua nova sala. Se liga no custo enquanto move o cursor.</Message>
+	<Message id="BUILD MODE4">Você pode ter notado que você estava limitado à grade quando construiu sua sala. Você pode alterar a grade e construir ângulos se desejar usando o painel à esquerda. Isso pode ser útil se você quiser construir mesas ao longo de uma parede diagonal, por exemplo.
 
-If you don't like how your room looks, you can use the undo button to undo your changes.
+Se você não gostar de como suas salas ficaram, você pode usar o botão de desfazer para desfazer suas alterações.
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing Q and E.
+Clique em Continuar quando estiver pronto.</Message>
+	<Message id="BUILD MODE5">Você pode ir para cima e para baixo dos andares pressionando Q e E.
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+Agora vamos adicionar janelas e portas. Você pode selecionar uma categoria ou procurar "janela" ou "porta" no painel de construção.</Message>
+	<Message id="BUILD MODE6">Observe como a sala acende quando você adiciona a janela, lembre-se de adicionar o suficiente para que seus funcionários possam ver.
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+Você pode inspecionar as condições de iluminação, ambiente, temperatura e ruído clicando e selecionando a sala.</Message>
+	<Message id="BUILD MODE7">Você também pode mudar a cor das suas salas e móveis.
 
-Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by shift clicking and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+Tente mudar a cor do sua sala clicando com o botão direito do mouse e clique no botão "Cores da sala" que se assemelha a uma escova.</Message>
+	<Message id="BUILD MODE8">Você pode mudar a cor de várias coisas ao mesmo tempo, clicando e selecionando os objetos antes de abrir a janela de cores. A janela de cores sugerirá cores que estão atualmente em uso.
 
-If you like the style you have given a room or piece of furniture, you can set it as default in the right click context menu.
+Se você gosta do estilo que você deu uma sala ou peça de mobiliário, você pode configurá-lo como padrão no menu de contexto do botão direito.
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+Clique em Aplicar quando estiver pronto ou feche a janela se desejar cancelar suas alterações.</Message>
+	<Message id="BUILD MODE9">Vamos colocar alguns móveis em sua nova sala.
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+Criar uma nova mesa clicando no botão "Constuir" ou à procura de "mesa".</Message>
+	<Message id="BUILD MODE10">Agora, adicione uma cadeira. As cadeiras só podem ser adicionadas às mesas.
 
-Note that some furniture, like chairs and tables, can be replaced with alternate versions after they have been placed. You can use the right click context menu to easily replace a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
+Observe que alguns móveis, como cadeiras e mesas, podem ser substituídos por versões alternativas depois de terem sido colocadas. Você pode usar o menu de contexto do botão direito para substituir facilmente muitos móveis ao mesmo tempo, selecionando todos os móveis do mesmo tipo nas salas selecionadas, por exemplo.</Message>
 	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
 
 Computers have to sit on top of a table and face a chair.</Message>
@@ -406,30 +406,30 @@ You can see which stocks a company owns in the bottom left panel.</Message>
 Support tickets should be answered as quickly as possible. Employees with good programming skills will be able to verify specific bugs quickly as tickets are answered, which your employees will then proceed to fix.
 
 Support for a product never ends by itself, so you'll have to end it when you don't think support is necessary anymore. Keep an eye on the active user count to help guide you.</Message>
-	<Message id="WELCOME1">Welcome to Software Inc.
+	<Message id="WELCOME1">Bem-vindo ao Software Inc.
 
-You can drag this window somewhere else if it is in the way, by clicking and holding the titlebar.
+Você pode arrastar esta janela em outro lugar se estiver atrapalhando, clicando e segurando a barra de título.
 
-Press Continue to advance the tutorial.</Message>
-	<Message id="WELCOME2">You can move the camera with the WASD keys, holding CTRL + right mouse button and dragging the mouse, or by moving your mouse to the edges of the screen (if edge scrolling is enabled in the options menu).
+Pressione Continuar para avançar o tutorial.</Message>
+	<Message id="WELCOME2">Você pode mover a câmera com as teclas WASD, segurando CTRL + botão direito do mouse e arrastando o mouse, ou movendo o mouse para as bordas da tela (se a rolagem de borda estiver ativada no menu de opções).
 
-You can rotate the camera by holding the middle mouse button and moving the mouse or by using the arrow keys.
+Você pode girar a câmera segurando o botão do meio do mouse e movendo o mouse ou usando as teclas de seta.
 
-You can zoom in and out by using the scroll wheel or the plus and minus keys on your keypad.</Message>
-	<Message id="WELCOME3">The keys can be configured in the options menu, which you can open by pressing Escape or pressing the button in the lower right corner and click "Options".</Message>
-	<Message id="WELCOME4">In the top you can find your current bank balance.</Message>
-	<Message id="WELCOME5">Up here, the stars show your business reputation and the number is your fan count. You can hover over them to get details on what they mean.
+Você pode aumentar e diminuir o zoom usando a roda de rolagem ou as teclas mais e menos no seu teclado.</Message>
+	<Message id="WELCOME3">As teclas podem ser configuradas no menu de opções, que você pode abrir pressionando Espaço ou pressionando o botão no canto inferior direito e clique em "Opções".</Message>
+	<Message id="WELCOME4">No topo, você pode encontrar o seu saldo bancário atual.</Message>
+	<Message id="WELCOME5">Aqui, as estrelas mostram a reputação do seu negócio e o número é de fãs. Você pode passar o mouse por cima deles para obter detalhes sobre o que eles significam.
 
-You can hover over the bar to see your market recognition in each software market. To sell more products in each software category, you need to gain market recognition by making good products and marketing them.</Message>
-	<Message id="WELCOME6">Here you can see how much money is moving in and out of your company.
+Você pode passar o mouse sobre a barra para ver seu reconhecimento de mercado em cada mercado de software. Para vender mais produtos em cada categoria de software, você precisa ganhar reconhecimento no mercado, fazendo bons produtos e comercializando-os.</Message>
+	<Message id="WELCOME6">Aqui você pode ver a quantidade de dinheiro que está entrando e saindo da sua empresa.
 
-Since this is your first day, nothing is showing. If you click here, a window with an overview of your finances will open.</Message>
-	<Message id="WELCOME7">You can control how fast time moves by using these buttons or 0, 1, 2, 3 on your keyboard, which can also be configured in the options menu.</Message>
-	<Message id="WELCOME8">Important notifications will appear in the top left. You can drag the notification bar down to see old notifications.
+Como este é o seu primeiro dia, nada está mostrando. Se você clicar aqui, uma janela com uma visão geral de suas finanças será aberta.</Message>
+	<Message id="WELCOME7">Você pode controlar o quão rápido o tempo vai passar usando esses botões ou 0, 1, 2, 3 no seu teclado, que também pode ser configurado no menu de opções.</Message>
+	<Message id="WELCOME8">Notificações importantes aparecerão no canto superior esquerdo. Você pode arrastar a barra de notificação para baixo para ver notificações antigas.
 
-Some notifications can be clicked to see details. You can right click notifications to delete them.</Message>
-	<Message id="WELCOME9">All your controls and windows are here, in the bottom left corner.</Message>
-	<Message id="WELCOME10">Remember: You can always restart any tutorial from the options menu.
+Algumas notificações podem ser clicadas para ver detalhes. Você pode clicar nas notificações do botão direito para excluí-las.</Message>
+	<Message id="WELCOME9">Todos os seus controles e janelas estão aqui, no canto inferior esquerdo.</Message>
+	<Message id="WELCOME10">Lembre-se: você sempre pode reiniciar qualquer tutorial no menu de opções.
 
-When you are ready, begin building your office by entering "Build mode".</Message>
+Quando estiver pronto, comece a construir seu escritório digitando "Modo de construção".</Message>
 </Tutorial>
