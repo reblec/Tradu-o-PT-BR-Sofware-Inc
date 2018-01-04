@@ -1,0 +1,74 @@
+<Currencies>
+	<Currency>
+		<Name>BLR</Name>
+		<Prefix>R$ </Prefix>
+		<Postfix></Postfix>
+		<Rate>3.2</Rate>
+	</Currency>
+	<Currency>
+		<Name>GBP</Name>
+		<Prefix>£</Prefix>
+		<Postfix></Postfix>
+		<Rate>0.6</Rate>
+	</Currency>
+	<Currency>
+		<Name>EUR</Name>
+		<Prefix>€</Prefix>
+		<Postfix></Postfix>
+		<Rate>0.9</Rate>
+	</Currency>
+	<Currency>
+		<Name>USD</Name>
+		<Prefix>$</Prefix>
+		<Postfix></Postfix>
+		<Rate>1</Rate>
+	</Currency>
+	<Currency>
+		<Name>YEN</Name>
+		<Prefix>¥ </Prefix>
+		<Postfix></Postfix>
+		<Rate>120</Rate>
+	</Currency>
+	<Currency>
+		<Name>DKK</Name>
+		<Prefix></Prefix>
+		<Postfix> kr.</Postfix>
+		<Rate>5.5</Rate>
+	</Currency>
+	<Currency>
+		<Name>NOK</Name>
+		<Prefix></Prefix>
+		<Postfix> kr.</Postfix>
+		<Rate>7.5</Rate>
+	</Currency>
+	<Currency>
+		<Name>SEK</Name>
+		<Prefix></Prefix>
+		<Postfix> kr.</Postfix>
+		<Rate>8.4</Rate>
+	</Currency>
+	<Currency>
+		<Name>AUD</Name>
+		<Prefix>$</Prefix>
+		<Postfix></Postfix>
+		<Rate>1.3</Rate>
+	</Currency>
+	<Currency>
+		<Name>CAD</Name>
+		<Prefix>$</Prefix>
+		<Postfix></Postfix>
+		<Rate>1.25</Rate>
+	</Currency>
+	<Currency>
+		<Name>CHF</Name>
+		<Prefix></Prefix>
+		<Postfix> CHF</Postfix>
+		<Rate>0.9</Rate>
+	</Currency>
+	<Currency>
+		<Name>NIS</Name>
+		<Prefix>₪</Prefix>
+		<Postfix></Postfix>
+		<Rate>3.54</Rate>
+	</Currency>
+</Currencies>
