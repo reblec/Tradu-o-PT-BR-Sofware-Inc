@@ -1,0 +1,435 @@
+<Tutorial>
+	<Message id="ALPHA WORK1">Your design has now been promoted to implementation.
+
+The implementation phase has three stages:
+
+1. "Alpha", in which developers and artists create the product according to the design specifications and requirements.
+
+2. "Delay", depending on how competent your employees are, unexpected issues may crop up during alpha, which need to be addressed before moving on.
+
+3. "Beta", in which bugs are uncovered by your programmers and hopefully fixed before the final release.</Message>
+	<Message id="ALPHA WORK2">Depending on whether your software has any code or art your will see "code" and "art" units increase. These tell you roughly how much work is getting done, the higher the numbers are, the closer the product is to being complete.
+		
+These numbers tell nothing of the actual quality of the code and art, though. To get an idea of how good your employees' work is, you need to do a peer review, start by pressing the review button and select Team.</Message>
+	<Message id="ALPHA WORK3">When your product has received some reviews, press the end button to see the results. Note that the review is based on your product as it was when you started the review, so any work done in the mean time will not be counted.</Message>
+	<Message id="ALPHA WORK4">The final score will be higher or lower than the actual quality based on who reviewed it. The team that developed the software will probably say it's better than it actually is.
+
+You can scroll through the review to see how the reviewers scored different aspects of your software. The quality of the art and code can vary through development based on the skill of your employees and does not depend on how much work has been done.</Message>
+	<Message id="ALPHA WORK5">Make sure you do a press release during development as well.
+
+During development you also have the option to send out a press build, so the press can try your software. Press builds require no work on your part, but make sure you have good ratings in your peer reviews and some followers before you send one out.</Message>
+	<Message id="ALPHA WORK6">Press the Promote button to move on to the delay phase when you are ready and the project will move on to the beta phase automatically.</Message>
+	<Message id="ALPHA WORK7">The beta phase is theoretically endless, but you'll have to release your project at some point, especially if you've already announced a release date.
+
+It's a good idea to fix as many bugs as possible, as buggy products will lead to refunds, but don't aim to fix every possible bug in your product. When your product is released you'll be able to fix more bugs, as your customers get in contact with your support team.</Message>
+	<Message id="ALPHA WORK8">Press the release button when you're ready.
+		
+When you release your product you'll have to buy or print physical copies of it to sell. Later on, online software distribution will become more popular, but it is very important to have physical copies of your product before and during the 90s.
+		
+You can either print physical copies yourself or order some to have immediatly for a higher price. The game will remind you of this everytime you release a product.</Message>
+	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
+	<Message id="BUILD MODE2">The game is always paused in build mode.
+
+Let's start by building a room. You have two choices for how you want to build a room.
+
+Click on the "Construct rectangle room" button in the build panel to build a simple rectangle room or click the "Construct room" button to build rooms in any shape you want, one wall at a time.
+
+You can also use the "Construct room" option to split rooms into two separate rooms, by simply building a wall through a room.</Message>
+	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
+	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using the panel to the left. This might come in handy if you want to build tables along a diagonal wall for example.
+
+If you don't like how your room looks, you can use the undo button to undo your changes.
+
+Click Continue when you are ready.</Message>
+	<Message id="BUILD MODE5">You can move up and down floors by pressing Q and E.
+
+Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
+	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+
+You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
+	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+
+Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
+	<Message id="BUILD MODE8">You can change the color of multiple things at once by shift clicking and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+
+If you like the style you have given a room or piece of furniture, you can set it as default in the right click context menu.
+
+Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
+	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+
+Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
+	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+
+Note that some furniture, like chairs and tables, can be replaced with alternate versions after they have been placed. You can use the right click context menu to easily replace a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
+	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+
+Computers have to sit on top of a table and face a chair.</Message>
+	<Message id="BUILD MODE12">When you put tables next to eachother they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just highlight one table and it's group will be highlighted in blue.
+
+It's important you control the noise levels in your working environment, try enabling the audio overlay to see what furniture is making noise.</Message>
+	<Message id="BUILD MODE13">Your founder does not get tired, hungry, cold, lonely, stressed, need bathroom breaks or get annoyed in general, but when you hire new employees they will. So make sure to add at least one vending machine, a coffee machine, a radiator, a ventilator and a separate bathroom before you hire new employees.
+
+Click "Continue" to advance.</Message>
+	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+
+Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
+	<Message id="BUILD MODE15">Remember to assign employees to a team as well. You can do this either by right clicking on an employee and choosing "Switch team", from the employees window or directly in the hiring window.
+
+Holding shift while clicking on objects, rooms or employees will allow you to select several at once, you can then right click anywhere to see the context menu. You can hold ctrl and the left mouse button down to select objects of the same type quickly.
+
+Try selecting at least 2 things in the game.</Message>
+	<Message id="BUILD MODE16">You can merge rooms by using the "Destroy wall" tool, or by holding shift and clicking to select the rooms you want to merge, right click and then choose the "Merge rooms" option from the context menu.
+
+Now, let's exit Build mode.</Message>
+	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
+	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
+	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+
+Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. You complete a contract by delivering the code and art units requested.
+
+Try selecting a contract in the list now.</Message>
+	<Message id="CONTRACTS3">The final payout will be subtracted from, for not completing the contract and on time, and for any unfixed bugs.
+
+Not living up to the clients quality expectations will impact your business reputation, but not your payout.
+
+Browse the contracts now and accept one that requires some code units.</Message>
+	<Message id="CONTRACTS4">Until an employee actually starts working on the contract, the deadline will not count down.
+
+During the design phase, your employees will reduce bugs in the final delivery and increase quality. Make sure you Promote your design as soon as the progress bar reaches the end, to avoid over engineering.</Message>
+	<Message id="CONTRACTS5">When code and art units (if any) reaches the client's target value, you have completed the contract, you can continue working on it if you want to deliver a better product.
+
+Make sure you do a client review before you move on to the bug fixing stage, to make sure it lives up to their quality expectations.</Message>
+	<Message id="CONTRACTS6">When you are ready, move on to the bug fixing stage.
+
+It's impossible to know exactly how many bugs a piece of software has, so just try to fix as many as you can before time runs out.</Message>
+	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
+	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
+	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
+	<Message id="CUSTOMIZATION4">And a gender.</Message>
+	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
+	
+You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
+	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
+
+You can choose two traits, which will affect your founder's behavior, listed below, and inter-office relationships.</Message>
+	<Message id="CUSTOMIZATION8">Here you can pick you founder's skill points and specializations, which will affect the performance of your founder.
+
+Specializations are limited by skill, so if your founder has low design skill, he/she will also be low skilled in the design specialization you pick.
+
+You can further educate and train your founder to gain skill and specializations in the game.</Message>
+	<Message id="CUSTOMIZATION9">You are now done customizing your founder. Let's begin choosing the rules of the game!</Message>
+	<Message id="CUSTOMIZATION10">You can enable any mods here, which will be bound to the game forever.
+
+You can share your game with others, without them having to install the mods.
+
+Some mods add scenarios, so you should enable the ones you want before picking a scenario.</Message>
+	<Message id="CUSTOMIZATION11">Now pick a scenario. The scenario will control the starting money and starting date you can choose between, and goals and whether to simulate the competition, use a scripted competition or both.</Message>
+	<Message id="CUSTOMIZATION12">You can change the environment here.
+
+The forest is the default environment, the tundra is cold all year, the desert is hot all year and the city has skyscrapers and a pre-built road network with parking lots.</Message>
+	<Message id="CUSTOMIZATION13">Difficulty can be changed at any point in the game by going to the options menu. Difficutly controls how easy it is to break into the market.</Message>
+	<Message id="CUSTOMIZATION14">Normally 1 day is equal to 1 month in Software Inc. This keeps the game at a steady pace so it doesn't get boring.
+
+If you feel the game is going too fast or you want a couple of buffer days to earn money between having to pay salaries and bills, you can increase the amount of days there is in a month.
+
+Note that everything in the game will move relatively slower to match the setting you pick and you can't change it later on.</Message>
+	<Message id="CUSTOMIZATION15">Click the Start game button to begin playing</Message>
+	<Message id="DESIGN DOCUMENT1">Start the tutorial by pressing the "Develop software" button to bring up the design document.</Message>
+	<Message id="DESIGN DOCUMENT2">Welcome to the design document, the heart of Software Inc.
+
+Start by picking a software type.
+
+Click continue to to advance the tutorial.</Message>
+	<Message id="DESIGN DOCUMENT3">If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and its own target audience.</Message>
+	<Message id="DESIGN DOCUMENT4">Then pick a name. You can either write one yourself or press the "Name:" button to have it generated.</Message>
+	<Message id="DESIGN DOCUMENT5">You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price.</Message>
+	<Message id="DESIGN DOCUMENT6">Now you must pick features for your product. Each feature takes time to develop and balances innovation, stability and usability, so pick carefully.
+
+The features you can pick depend on which software dependencies and operating systems you chose, and vice versa, when you select a feature, all dependencies and operating systems you can pick will be filtered accordingly.
+
+Some features are artistic in nature and you will need artists on the team to get the best result.</Message>
+	<Message id="DESIGN DOCUMENT7">You can use these buttons to quickly select features. Note that it might not always be best to just select all features.</Message>
+	<Message id="DESIGN DOCUMENT8">Your product can depend on other software types. As an example, you will need a visual tool, like an image editor, to make a game with 2D graphics or you won't be able to make the graphics for it.
+
+The features you pick will determine what type of software you need to develop your product and the quality of the dependencies will affect the quality of your product.</Message>
+	<Message id="DESIGN DOCUMENT9">Pick a software you want to use from the list by selecting it and pressing "OK".
+
+You can filter software by features, the features you can pick for your software will sometimes depend on the features of the software you pick here.
+
+Take special note of quality and license costs. Your software's quality will depend on the quality of the software you pick and you will have to pay the license fees.</Message>
+	<Message id="DESIGN DOCUMENT10">Some software runs on an operating system and some software can only run on operating systems that the software it is built on can run on, e.g. Games can only run on the operating systems that its Game Engine can run on. And as before, your features might also depend on which operating systems you choose to support.
+
+You can pick your operating systems here. If nothing is shown, the software type you picked is not operating system dependent.
+
+Press "Continue" to carry on.</Message>
+	<Message id="DESIGN DOCUMENT11">You can make your software a sequel to a product you made previously or which you have bought from another company. You do this by clicking this button and selecting a product as you did with operating systems and software needs.
+
+Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+
+Features that were implemented for the predecessor will be highlighted in orange in the feature panel, these features will be developed faster when you develop your product.</Message>
+	<Message id="DESIGN DOCUMENT12">You can also make your software in-house, which means you won't sell it to other companies.
+
+You can use this to develop top quality game engines and only use them for your own games, to gain an advantage over other companies.
+
+If this is not visible, it means the software you picked is meant for an audience and it wouldn't make sense to keep it in-house.</Message>
+	<Message id="DESIGN DOCUMENT13">If your software depends on server functionality, like an MMO, you will need to pick a server from this list.
+
+If your servers cannot handle the load this software will generate, they will quickly burn out and you will lose your reputation.</Message>
+	<Message id="DESIGN DOCUMENT14">Finally, you can pick a source control server from this list to support the development.
+
+Using source control will decrease bugs and speed up development, if your server can handle the load.</Message>
+	<Message id="DESIGN DOCUMENT15">After you've went through the phases of development and you're ready to release your product, remember to see if any popular products have just been released in the same software category as yours.
+
+You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+
+Timing is everything when you're just starting out!</Message>
+	<Message id="DESIGN DOCUMENT16">Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
+
+Take special note of consumer reach. Consumer reach is how many people can potentially purchase the product as of right now, this number might decrease or increase as you develop the product. For software that depend on operating systems, it will be limited by how many people are currently using the operating system and it's successors.
+
+Having more than the suggested amount of employees on the development teams will not increase development speed, but might actually reduce it instead.</Message>
+	<Message id="DESIGN DOCUMENT17">Click the develop button when you're ready to begin development.</Message>
+	<Message id="DESIGN WORK1">To start developing your software, designers need to piece together a document, which describes how the software should be developed and structured, to make sure everyone is on the same page.
+	
+Design work items are worked on by designers or employees in "Any role" until you promote the work item to alpha. Good design documents will make it easier for programmers to write good quality code and reduce the amount of bugs in the final product.
+
+Press "continue" to advance the tutorial.</Message>
+	<Message id="DESIGN WORK3">The work item will slowly fill up as it progresses. For design documents it is important to stop when the task is completely green, so you don't lose quality. If you wait too long, inexperienced designers will begin over-engineering.
+		
+While you wait, you should start telling the world about your new software. Start by announcing a release date by pressing the Market button.
+
+You'll have to do some guess work when picking a release date, but it will increase the effectiveness of all your future marketing efforts with your product. Just make sure you release it on time!</Message>
+	<Message id="DESIGN WORK4">Before you move on to development you should make a press release to tell the world about your product.
+		
+When you market your product before it's released you build a following, who will buy your product when it releases. Your followers might not all buy it straight away or might refund it, so they are not guaranteed sales.
+
+Your employees will have to work on making the press release, so if you think it'll take a while, you can pause your design work by pressing the play button, to avoid over-engineering.
+
+Start by bringing up the marketing window again.</Message>
+	<Message id="DESIGN WORK5">Make sure you read the text in the marketing window, as it tells you how to handle the different marketing actions available to you.</Message>
+	<Message id="DESIGN WORK6">Click the Develop button to begin development when you are ready.
+
+Right click the title bar of the work item to toggle between normal and collapsed view.
+
+Left click the title bar and drag to re-arrange your work items.</Message>
+	<Message id="DISTRIBUTION1">Software is sold both physically in stores and digitally online. As time progresses people will move towards digital purchases and the two platforms even out at some point.
+		
+You can order physical copies of your products by going to your releases, selecting a product and clicking the Order copies button.</Message>
+	<Message id="DISTRIBUTION2">The copy order window will show you some details that affect how many copies you should order.
+
+You'll have to balance the amount you order with how many you expect to sell to avoid a loss. You can always order a few copies now and order more next month.
+
+Close the window to continue</Message>
+	<Message id="DISTRIBUTION3">You can also print copies of your product yourself, which is a lot cheaper. You'll need printers, storage and couriers to transport your copies to stores.
+		
+When you want to print a product, simply press the Start printing button in the Your releases window with a product selected.
+		
+Start by going to build mode.</Message>
+	<Message id="DISTRIBUTION4">You'll find printers and pallets in the furnish menu.
+		
+Exit build mode when you are ready.</Message>
+	<Message id="DISTRIBUTION5">In the staff window you can either hire couriers to come once every day and pick up copies or call a courier to pick up as many copies as possible immediately.
+		
+When you are ready, open the distribution window.</Message>
+	<Message id="DISTRIBUTION6">To start selling products through your own digital online store, you can click this button and pick a server to run the store on. Note that running your own store requires a lot of bandwidth if a product is selling well.
+
+You need to set up deals with other companies individually, if you want them to sell their products through your store.
+
+Open up the companies window now, to start making distribution deals.</Message>
+	<Message id="DISTRIBUTION7">Click on the details button on a company you want to make a deal with, the window will have a button to suggest a distribution deal, if applicable.
+
+These are your options regarding software distribution, press End to end the tutorial.</Message>
+	<Message id="EDUCATION1">Begin the tutorial by selecting one or more of your employees, right click anywhere on the screen to bring up the action menu, and then pick "Educate employee".</Message>
+	<Message id="EDUCATION2">This is the education window. You can use education to make your employee better at their jobs or enable HR for your leaders.
+
+You can choose to either educate your employee in a skill, specialization or you can enable HR by checking one of the options in the bottom of the education window.</Message>
+	<Message id="EDUCATION3">Start by choosing the amount of months to educate your employees. Note that educational courses are considered paid leave, so you will also be paying salaries on top of course expenses.
+
+There is a limit to the skills and specializations of your employees, so if you pick 3 months of courses for an employee with a high skilll level, you'll be throwing money out the window.</Message>
+	<Message id="EDUCATION4">Then pick what role you want to educate your employees in.</Message>
+	<Message id="EDUCATION5">If you picked Designer, Programmer or Artist, you should pick what specialization you want them to improve in. Click "Start education" when you are ready to send your employee off.</Message>
+	<Message id="EMPLOYEES1">Begin by opening the employee window.</Message>
+	<Message id="EMPLOYEES2">This is a list of all your employees, which details their status.
+
+You can check any of the options in the top bar to get more details on all your employees.</Message>
+	<Message id="EMPLOYEES3">When you select an employee in the list, they will be selected in the game and you can get details on their specializations at the bottom of the window.
+
+Try selecting an employee now.</Message>
+	<Message id="EMPLOYEES4">You can select several employees by holding down shift.
+
+Now, right click anywhere to bring up the actions menu for the selected employee. Click the "Change team" button and select "Core" in the window that appears.</Message>
+	<Message id="EMPLOYEES5">Now, right click anywhere and click the "Change Role" button, which resembles a wrench.</Message>
+	<Message id="EMPLOYEES6">Clicking on a role in the "Select role" window will assign the employee to that role. You can also click the "Any role" button to let your employee act in any role or "Auto role" to assign a role to the employee based on skill.
+
+Note that "Lead" can not be chosen unless the employee is assigned to a team and an employee can not be a Leader while in "Any role". You can set a leader to work all jobs by choosing "Lead(Any role)", but they won't work in full capacity and they can affect software quality.
+
+Close the "Select role" window and click "Continue" to advance the tutorial.</Message>
+	<Message id="EMPLOYEES7">With your employee selected, right-click anywhere once again to bring up the actions menu and select "Details", which resembles a single person.</Message>
+	<Message id="EMPLOYEES8">Here you can see the stats of your employee.
+
+In top left corner you can see your employee's personality traits, and below that, your employee's skills in each role. Clicking a role will also allow you to assign the employee to that role.</Message>
+	<Message id="EMPLOYEES9">In bottom left part of the window you can see you employee's specializations, which shows how educated your employee is in different subjects.
+	
+The "base skill" is your employee's experience in that role.</Message>
+	<Message id="EMPLOYEES10">In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's two personality traits.
+
+You can hover over each of the three traits to see how they affect the employee.</Message>
+	<Message id="EMPLOYEES11">In the center right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work.</Message>
+	<Message id="EMPLOYEES12">Finally, in the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
+	
+You can use this to see what is wrong if your employees suddenly start working slowly or not at all.</Message>
+	<Message id="EMPLOYEES13">In the beginning of the game you will need to make some quick cash.
+
+Bring up the Contract window to get some work.</Message>
+	<Message id="HIRING1">Start by opening the hire window</Message>
+	<Message id="HIRING2">Before you can hire anyone, you need to put out a search for employees. Start by choosing which role your new employee should be good at.</Message>
+	<Message id="HIRING3">If you've picked a programmer, artist or designer, you should also pick a specialization you want them to be good at.</Message>
+	<Message id="HIRING4">Then you need to decide how much money you want to give your potential employee per month. It is very important that you make sure you have enough money to actually pay them or you'll go bankrupt very quickly.
+
+The quality of applicants will depend on how high you set the salary and the reputation of your company.</Message>
+	<Message id="HIRING5">You can also choose to interview employees in specific areas upfront. You can wait to interview employees before you hire them, but that might be more expensive, depending on how many you intend to hire.
+
+Each interview option will double the search price.</Message>
+	<Message id="HIRING6">Finally, you need to decide how much money you want to spend searching for applicants. The more money you spend, the more potential employees you will reach. You're guaranteed to receive at least one application.
+
+Press "Begin looking" to begin searching.</Message>
+	<Message id="HIRING7">This is a list of employees that applied to the open position in your company.</Message>
+	<Message id="HIRING8">You can select employees to inspect them and press the "Hire" button to hire them. Employees are expensive and you should probably wait before you hire any if you are just starting out.
+
+Try selecting an employee on the list.</Message>
+	<Message id="HIRING9">You can easily navigate the applications by using the arrow keys on your keyboard and pressing enter to hire.
+
+When you are done, simply close the window.</Message>
+	<Message id="HR1">To enable HR management open the team window</Message>
+	<Message id="HR2">With the team window open, scroll the team list all the way to the right and click "HR options" in the list, on the team you wish to enable HR for.</Message>
+	<Message id="HR3">Go over the HR settings and check "Enable HR management" when you are done. The Budget might need to be increased once in a while, so good employees don't seek out new job opportunities.
+
+Close the automation window to finish this tutorial.</Message>
+	<Message id="INSURANCE1">Start by opening the insurance window</Message>
+	<Message id="INSURANCE2">You can deposit and withdraw money by using this slider.
+
+Money on your insurance account earns you 5% interest per year (up to a certain amount), so it's a great place to keep money.
+
+Withdrawing and depositing money in the insurance account affects your employee's satisfaction based on their age, so be careful when you withdraw money.</Message>
+	<Message id="INSURANCE3">Employees retire, or might die or get sick. When this happens they will receive money from your insurance account, so there is some risk involved in depositing money into this account.
+
+You can keep up with what payments have been made in this panel.</Message>
+	<Message id="INSURANCE4">This is really all there is to your insurance account. Close the window to end the tutorial</Message>
+	<Message id="MARKETING1">Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
+
+You can start a marketing campaign by opening your release window, selecting a product and clicking the market button</Message>
+	<Message id="MARKETING2">This is the marketing window.
+		
+Marketing your product is a potentially endless money sink. The more money you use, the bigger advantage you get over competing products. Bigger software products will need more marketing to compete.
+
+Note that spending more money on marketing than your competitors will prompt them to do the same.</Message>
+	<Message id="MARKETING3">You can set a budget, which puts an upper limit to the spending for this marketing task. "0" means there is no limit.
+		
+Increasing your marketing budget will not increase marketing efforts. You will need a lot of talented marketers to effectively use your budget.
+
+If you are happy with the team selection, press "OK" to start your campaign.</Message>
+	<Message id="MARKETING4">Your new marketing plan will appear as a work item on the right.
+
+After the first day, the work item will start filling up to indicate how much money you are spending compared to yesterday's marketing efforts.
+
+Press "End" to end the tutorial.</Message>
+	<Message id="NEWPROJECTMANAGEMENT1">Start by opening the project management window.</Message>
+	<Message id="NEWPROJECTMANAGEMENT2">Project management let's you delegate a release cycle to a leader in your company, so they control everything from creating a design to supporting the product once it's released.
+
+A project management team needs a leader. The leader will dedicate all his or her time to keeping the project running, so it might be worthwhile to keep the leader in his or her own team.
+
+Start by selecting a leader to run the project and name your team.</Message>
+	<Message id="NEWPROJECTMANAGEMENT3">Now look through each of the options to control how the projects should be handled. You can hover over each label to get a detailed description.
+		
+Click OK when you're ready.</Message>
+	<Message id="NEWPROJECTMANAGEMENT4">Now open the project management detail window for your new project.</Message>
+	<Message id="NEWPROJECTMANAGEMENT5">You'll notice a new panel that tells you how many actions points the leader has accumulated.
+		
+Action points are used to start new projects, complete marketing tasks and move through the development stages. Some actions cost more points than others. Your leader will continually work to accumulate these points.
+
+Leader skill determines how many points can be gathered and role specific skills control how quickly they will be gathered for each category.</Message>
+	<Message id="NEWPROJECTMANAGEMENT6">The bottom panel tells you which projects are currently queued and lets you cancel or take them over.
+
+Before the project can begin, you have to assign a design document that sets the standard for future products.
+
+Go to the design document.</Message>
+	<Message id="NEWPROJECTMANAGEMENT7">When you are done making your design, click the Project management button, instead of the Develop button, to assign your new design to the project queue.</Message>
+	<Message id="RESEARCH1">Start the tutorial by pressing the "Research" button to bring up the design document.</Message>
+	<Message id="RESEARCH2">If there is any available research you will see a list of software in this panel. You can click on a software type to see which features are available for research.
+
+Press continue to advance.</Message>
+	<Message id="RESEARCH3">This is a list of researchable features for the selected software type. You can see which features have already been researched and which are currently patented. Features will appear as they unlock through the years.
+
+To research a feature, select it, click Research and pick the teams you want to conduct the research.</Message>
+	<Message id="RESEARCH4">When you have researched a feature, all companies who use it in a product will have to pay royalties to you, based on how much the software sells.
+
+Note that other companies might swoop in and steal the patent before you finish researching it and that patents eventually expire.</Message>
+	<Message id="SERVER1">Open the server wiring interface by clicking the wire button.
+
+In this mode you can connect or disconnect servers by clicking on a server and then on another server. You can also select all the servers you want to connect while holding shift or ctrl and then right click and press "Connect servers".
+
+When servers are connected, one of them will be the main server for the group and will handle all wiring, all load you put on a server group will be distributed among every server in the group. If one server in a group breaks down, the entire group stops working.</Message>
+	<Message id="SERVER2">Try exiting build mode and open the server window.</Message>
+	<Message id="SERVER3">From here you can manage your servers and check if they are overheating.
+
+If you select a server group, you can see a list of all processes running on that server group. You can then redelegate those processes to other servers by pressing "Redelegate selected".</Message>
+	<Message id="SERVER4">If you destroy a server group completely all processes will be unsupported, which can have major consequences.
+		
+If this happens you should click the "View unsupported processes" button and redelegate all processes to other servers.
+
+Press End to finish the tutorial.</Message>
+	<Message id="STAFF1">Begin by opening the staff window.</Message>
+	<Message id="STAFF2">This is the staff window. At the top you will see a list of your currently employed staff, whether permanent or temporary.</Message>
+	<Message id="STAFF3">With the buttons under "Permanent:" you can hire staff permanently to clean, fix your furniture, etc. You can see their salary by hovering over the buttons. They will show up once a day until you dismiss them.
+
+You can change their working hours using the buttons in the list.</Message>
+	<Message id="STAFF4">With the buttons under "Temporary:" you can hire staff temporarily. They will stay untill their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
+
+Press "End" to end the tutorial.</Message>
+	<Message id="STOCKS1">In the upper right corner of the company window, you will see a list of stocks.
+
+The first stock in the list is the company's own share, which you can buy if you have bought all other stocks in the list.
+
+You have two options when you buy a company's main share, you can buy them out or make a subsidiary of your own company.
+
+Buying out a company will give you their IP and their patents. Making them a subsidiary will allow them to continue and share patents, distribution platforms and IP with you, but you can deposit and withdraw money from them, and close them at any time.
+
+When a company goes bankrupt, all its assets will go to the majority shareholder.</Message>
+	<Message id="STOCKS2">When you own stock in another company, that company will pay dividends to you each month, which is the percentage you own in the company of their surplus for that month, divided by 24. You will also have to pay dividends to companies that own stock in your company, but it is an easy way to loan money.
+		
+Alternatively, you can buy the stock when it is cheap and sell it high, by trying to predict how the company will do, based on its history.
+
+You can see which stocks a company owns in the bottom left panel.</Message>
+	<Message id="STOCKS3">In the bottom middle of the window you can see the company's patents. If you develop products with any of the features listed, you will have to pay royalties to this company out of its profit. If you own stocks in the company or the company is a subsidiary, royalites do not apply.</Message>
+	<Message id="SUPPORT WORK1">When you release a new piece of software it will spawn a support work item. Through this work item you will receive support tickets from your customers, assuming you have any.
+		
+Support tickets should be answered as quickly as possible. Employees with good programming skills will be able to verify specific bugs quickly as tickets are answered, which your employees will then proceed to fix.
+
+Support for a product never ends by itself, so you'll have to end it when you don't think support is necessary anymore. Keep an eye on the active user count to help guide you.</Message>
+	<Message id="WELCOME1">Welcome to Software Inc.
+
+You can drag this window somewhere else if it is in the way, by clicking and holding the titlebar.
+
+Press Continue to advance the tutorial.</Message>
+	<Message id="WELCOME2">You can move the camera with the WASD keys, holding CTRL + right mouse button and dragging the mouse, or by moving your mouse to the edges of the screen (if edge scrolling is enabled in the options menu).
+
+You can rotate the camera by holding the middle mouse button and moving the mouse or by using the arrow keys.
+
+You can zoom in and out by using the scroll wheel or the plus and minus keys on your keypad.</Message>
+	<Message id="WELCOME3">The keys can be configured in the options menu, which you can open by pressing Escape or pressing the button in the lower right corner and click "Options".</Message>
+	<Message id="WELCOME4">In the top you can find your current bank balance.</Message>
+	<Message id="WELCOME5">Up here, the stars show your business reputation and the number is your fan count. You can hover over them to get details on what they mean.
+
+You can hover over the bar to see your market recognition in each software market. To sell more products in each software category, you need to gain market recognition by making good products and marketing them.</Message>
+	<Message id="WELCOME6">Here you can see how much money is moving in and out of your company.
+
+Since this is your first day, nothing is showing. If you click here, a window with an overview of your finances will open.</Message>
+	<Message id="WELCOME7">You can control how fast time moves by using these buttons or 0, 1, 2, 3 on your keyboard, which can also be configured in the options menu.</Message>
+	<Message id="WELCOME8">Important notifications will appear in the top left. You can drag the notification bar down to see old notifications.
+
+Some notifications can be clicked to see details. You can right click notifications to delete them.</Message>
+	<Message id="WELCOME9">All your controls and windows are here, in the bottom left corner.</Message>
+	<Message id="WELCOME10">Remember: You can always restart any tutorial from the options menu.
+
+When you are ready, begin building your office by entering "Build mode".</Message>
+</Tutorial>
