@@ -843,321 +843,321 @@ Clique com o botão direito para desmarcar e cancelar.</Item>
 	<Item Name="Color">Cor</Item>
 	<Item Name="NetProfit">Lucro líquido</Item>
 	<Alpha4.1>
-		<Item Name="AreYouSure">Are you sure you want to</Item>
-		<Item Name="MarketingWindowTitle">Marketing for {0}</Item>
-		<Item Name="PreMarketingWindowTitle">Pre-marketing for {0}</Item>
-		<Item Name="MarketingStop">End</Item>
-		<Item Name="On market">On market</Item>
-		<Item Name="Inventor">Inventor</Item>
-		<Item Name="CustomLeaderHint">Increases the ability to bring together a team, boost their stats and handle management tasks</Item>
-		<Item Name="CustomProgrammerHint">Increases how fast and the amount of quality the programmer can add and how quickly bugs are fixed</Item>
-		<Item Name="CustomDesignerHint">Increases the speed of finishing design work and makes the employee better at stopping before a design gets too complex</Item>
-		<Item Name="CustomArtistHint">Increases how fast and the amount of quality the artist can add to a product and how quickly flaws are fixed</Item>
-		<Item Name="CustomMarketerHint">Increases the effectiveness and speed of marketing campaigns and company reputation bonuses</Item>
-		<Item Name="ElectronicHeatWarning">Some of your electronics are being affected by the heat</Item>
-		<Item Name="ActionCoolOverride">Put ventilators in full cool mode to preserve electronics</Item>
-		<Item Name="CoolMode">Super cooling</Item>
-		<Item Name="Slavery">Slavery</Item>
+		<Item Name="AreYouSure">Você tem certeza que quer</Item>
+		<Item Name="MarketingWindowTitle">Marketing para {0}</Item>
+		<Item Name="PreMarketingWindowTitle">Pré-marketing para {0}</Item>
+		<Item Name="MarketingStop">Fim</Item>
+		<Item Name="On market">No mercado</Item>
+		<Item Name="Inventor">Criador</Item>
+		<Item Name="CustomLeaderHint">Aumenta a capacidade de reunir uma equipe, aumentar suas estatísticas e lidar com tarefas de gerenciamento</Item>
+		<Item Name="CustomProgrammerHint">Aumenta a velocidade e a quantidade de qualidade que o programador pode adicionar e a rapidez com que os bugs são corrigidos</Item>
+		<Item Name="CustomDesignerHint">Aumenta a velocidade de acabamento do trabalho de design e torna o funcionário melhor em projetos seja muito complexo</Item>
+		<Item Name="CustomArtistHint">Aumenta a velocidade e a quantidade de qualidade que um artista pode adicionar a um produto e a rapidez com que as falhas são corrigidas</Item>
+		<Item Name="CustomMarketerHint">Aumenta a eficácia e a velocidade das campanhas de marketing e dos bônus de reputação da empresa</Item>
+		<Item Name="ElectronicHeatWarning">Alguns de seus produtos eletrônicos estão sendo afetados pelo calor</Item>
+		<Item Name="ActionCoolOverride">Coloque os ventiladores para esfriar e preservar os eletrônicos</Item>
+		<Item Name="CoolMode">Super refrigeração</Item>
+		<Item Name="Slavery">Escravidão</Item>
 	</Alpha4.1>
 	<Alpha4.2>
-		<Item Name="NeedNotChosen">Choose need</Item>
+		<Item Name="NeedNotChosen">Escolha a necessidade</Item>
 	</Alpha4.2>
 	<Alpha4.3>
-		<Item Name="Re-open">Re-open</Item>
-		<Item Name="cashflow">cashflow</Item>
-		<Item Name="Rooms">Rooms</Item>
-		<Item Name="Furniture">Furniture</Item>
-		<Item Name="SelectedEverything">Everything</Item>
+		<Item Name="Re-open">Reabrir</Item>
+		<Item Name="cashflow">fluxo de caixa</Item>
+		<Item Name="Rooms">Salas</Item>
+		<Item Name="Furniture">Mobília</Item>
+		<Item Name="SelectedEverything">Tudo</Item>
 		<Item Name="JanuaryAbbr">Jan.</Item>
-		<Item Name="FebruaryAbbr">Feb.</Item>
+		<Item Name="FebruaryAbbr">Fev.</Item>
 		<Item Name="MarchAbbr">Mar.</Item>
-		<Item Name="AprilAbbr">Apr.</Item>
-		<Item Name="MayAbbr">May</Item>
+		<Item Name="AprilAbbr">Abr.</Item>
+		<Item Name="MayAbbr">Mai</Item>
 		<Item Name="JuneAbbr">Jun.</Item>
 		<Item Name="JulyAbbr">Jul.</Item>
-		<Item Name="AugustAbbr">Aug.</Item>
-		<Item Name="SeptemberAbbr">Sep.</Item>
-		<Item Name="OctoberAbbr">Oct.</Item>
+		<Item Name="AugustAbbr">Ago.</Item>
+		<Item Name="SeptemberAbbr">Set.</Item>
+		<Item Name="OctoberAbbr">Out.</Item>
 		<Item Name="NovemberAbbr">Nov.</Item>
-		<Item Name="DecemberAbbr">Dec.</Item>
-		<Item Name="Day">Day</Item>
-		<Item Name="DayPostfix">day(s)</Item>
-		<Item Name="6 months">6 months</Item>
-		<Item Name="Last month">Last month</Item>
-		<Item Name="This month">This month</Item>
+		<Item Name="DecemberAbbr">Dez.</Item>
+		<Item Name="Day">Dia</Item>
+		<Item Name="DayPostfix">dia(s)</Item>
+		<Item Name="6 months">6 meses</Item>
+		<Item Name="Last month">Mês passado</Item>
+		<Item Name="This month">Este mês</Item>
 		<Item Name="SheetHR">HR</Item>
-		<Item Name="SheetSalaries">Salaries</Item>
-		<Item Name="SheetStaff">Staff</Item>
-		<Item Name="SheetHire">Hire</Item>
-		<Item Name="SheetEducation">Education</Item>
-		<Item Name="SheetMaintenance">Maintenance</Item>
-		<Item Name="SheetConstruction">Construction</Item>
-		<Item Name="SheetRepairs">Repairs</Item>
-		<Item Name="SheetBills">Bills</Item>
-		<Item Name="SheetSoftware">Software</Item>
-		<Item Name="SheetSales">Sales</Item>
-		<Item Name="SheetLicenses">Licenses</Item>
+		<Item Name="SheetSalaries">Salários</Item>
+		<Item Name="SheetStaff">Funcionários</Item>
+		<Item Name="SheetHire">Contratação</Item>
+		<Item Name="SheetEducation">Educação</Item>
+		<Item Name="SheetMaintenance">Manutenção</Item>
+		<Item Name="SheetConstruction">Construção</Item>
+		<Item Name="SheetRepairs">Reparos</Item>
+		<Item Name="SheetBills">Contas</Item>
+		<Item Name="SheetSoftware">Programas</Item>
+		<Item Name="SheetSales">Vendas</Item>
+		<Item Name="SheetLicenses">Licenças</Item>
 		<Item Name="SheetMarketing">Marketing</Item>
-		<Item Name="SheetContracts">Contracts</Item>
-		<Item Name="SheetDistribution">Distribution</Item>
-		<Item Name="SheetMisc">Misc</Item>
-		<Item Name="SheetStocks">Stocks</Item>
-		<Item Name="SheetLoan">Loan</Item>
-		<Item Name="SheetInterest">Interest</Item>
+		<Item Name="SheetContracts">Contratos</Item>
+		<Item Name="SheetDistribution">Distribuição</Item>
+		<Item Name="SheetMisc">Diversos</Item>
+		<Item Name="SheetStocks">Estoques</Item>
+		<Item Name="SheetLoan">Empréstimo</Item>
+		<Item Name="SheetInterest">Interesse</Item>
 		<Item Name="SheetNA">N/A</Item>
-		<Item Name="DaysPerMonth">Days per month</Item>
-		<Item Name="OffMarketHint">If a product is affecting your reputation or you can't support it, it might be a good idea to pull it off the market. It can affect your reputation.</Item>
+		<Item Name="DaysPerMonth">Dias por mês</Item>
+		<Item Name="OffMarketHint">Se um produto está afetando sua reputação ou você não pode suportá-lo, pode ser uma boa idéia tirá-lo do mercado. Isso pode afetar sua reputação.</Item>
 	</Alpha4.3>
 	<Alpha4.4>
-		<Item Name="Room Aura">Room Aura</Item>
-		<Item Name="Janitor">Maintenance</Item>
-		<Item Name="IT">IT</Item>
+		<Item Name="Room Aura">Sala Aura</Item>
+		<Item Name="Janitor">Manutenção</Item>
+		<Item Name="IT">TI/Item>
 	</Alpha4.4>
 	<Alpha4.5>
-		<Item Name="Month">Month</Item>
-		<Item Name="Year">Year</Item>
-		<Item Name="PresimLoadMsg">Simulating market...</Item>
-		<Item Name="VacationNotify">{0} employee(s) went on vacation</Item>
-		<Item Name="RetireNotify">{0} has retired</Item>
-		<Item Name="SickNotify">{0} has called in sick</Item>
-		<Item Name="DiedNotify">{0} has died!</Item>
-		<Item Name="HospitalizedNotify">{0} has been in an accident and has resigned!</Item>
-		<Item Name="Skip day">Skip day</Item>
-		<Item Name="CompanyLoadMsg">Active companies</Item>
+		<Item Name="Month">Mês</Item>
+		<Item Name="Year">Ano</Item>
+		<Item Name="PresimLoadMsg">Simulando o mercado...</Item>
+		<Item Name="VacationNotify">{0} empregado(s) está(ão) de férias</Item>
+		<Item Name="RetireNotify">{0} aposentou-se</Item>
+		<Item Name="SickNotify">{0} ficou doente</Item>
+		<Item Name="DiedNotify">{0} morreu!</Item>
+		<Item Name="HospitalizedNotify">{0} sofreu um acidente e pediu demissão!!</Item>
+		<Item Name="Skip day">Pular o dia</Item>
+		<Item Name="CompanyLoadMsg">Empresas ativas</Item>
 		<Item Name="TeamCompat0">N/A</Item>
-		<Item Name="TeamCompat1">Extremely bad</Item>
-		<Item Name="TeamCompat2">Very bad</Item>
-		<Item Name="TeamCompat3">Bad</Item>
+		<Item Name="TeamCompat1">Extremamente ruim</Item>
+		<Item Name="TeamCompat2">Muito mal</Item>
+		<Item Name="TeamCompat3">Ruim</Item>
 		<Item Name="TeamCompat4">Normal</Item>
-		<Item Name="TeamCompat5">Good</Item>
-		<Item Name="TeamCompat6">Great</Item>
-		<Item Name="TeamCompat7">Amazing</Item>
-		<Item Name="ITBrokeWarning">Some electronic equipment broke and needs IT-support</Item>
-		<Item Name="SheetBalance">Balance</Item>
-		<Item Name="Thoughts">Thoughts</Item>
-		<Item Name="Ideal salary">Ideal salary</Item>
-		<Item Name="Any job">Any job</Item>
+		<Item Name="TeamCompat5">Boa</Item>
+		<Item Name="TeamCompat6">Ótimo</Item>
+		<Item Name="TeamCompat7">Incrível</Item>
+		<Item Name="ITBrokeWarning">Alguns equipamentos eletrônicos quebraram e precisam de suporte de TI</Item>
+		<Item Name="SheetBalance">Balanço</Item>
+		<Item Name="Thoughts">Pensamentos</Item>
+		<Item Name="Ideal salary">Salário ideal</Item>
+		<Item Name="Any job">Qualquer trabalho</Item>
 	</Alpha4.5>
 	<Alpha4.6>
-		<Item Name="NoPeeOptions">There is nowhere to pee</Item>
-		<Item Name="DisgustingToilet">The toilets are disgusting</Item>
-		<Item Name="NoToiletPrivacy">There is no privacy in the bathroom</Item>
-		<Item Name="NoSitting">There is nowhere to sit</Item>
-		<Item Name="BadCoffee">The coffee tastes bad</Item>
-		<Item Name="GoodCoffee">This coffee is great</Item>
-		<Item Name="LowerHealthInsurance">I need health insurance if I get hurt</Item>
-		<Item Name="LowerLifeInsurance">I could die at any moment, I need life insurance</Item>
-		<Item Name="LowerPension">Pensions are lowered just as I'm about to retire</Item>
-		<Item Name="MissingToiletWarning">An employee is having trouble finding a toilet</Item>
-		<Item Name="ServerLoadWarning">Your servers cannot deal with the load for distribution</Item>
-		<Item Name="ServerItemLoadWarning">Your servers can't deal with the load from {0}</Item>
-		<Item Name="LowCompatWarning">Team {0} has low compatibility</Item>
-		<Item Name="ContractIncomeMsg">Got {0} from accepting contract</Item>
-		<Item Name="VSyncWarning">Turning off VSync could damage your graphics card over longer periods of play, due to overheating.
-Are you sure you want to continue?</Item>
-		<Item Name="RoomLowEnv">This room is boring to look at</Item>
-		<Item Name="FurnitureBlockedStaff">You have furniture that your staff is unable to reach</Item>
+		<Item Name="NoPeeOptions">Não há lugar para fazer xixi</Item>
+		<Item Name="DisgustingToilet">Os banheiros são desagradáveis</Item>
+		<Item Name="NoToiletPrivacy">Não há privacidade no banheiro</Item>
+		<Item Name="NoSitting">Não há lugar para se sentar</Item>
+		<Item Name="BadCoffee">O café tem gosto ruim</Item>
+		<Item Name="GoodCoffee">Este café é ótimo</Item>
+		<Item Name="LowerHealthInsurance">Eu preciso de seguro de saúde, se eu me machucar</Item>
+		<Item Name="LowerLifeInsurance">Eu poderia morrer a qualquer momento, eu preciso de seguro de vida</Item>
+		<Item Name="LowerPension">As pensões são reduzidos logo quando eu estou prestes a me aposentar</Item>
+		<Item Name="MissingToiletWarning">Um funcionário está tendo problemas para encontrar um banheiro</Item>
+		<Item Name="ServerLoadWarning">Os seus servidores não podem lidar com a carga para distribuição</Item>
+		<Item Name="ServerItemLoadWarning">Seus servidores não podem lidar com a carga de {0}</Item>
+		<Item Name="LowCompatWarning">Equipe {0} tem pouca compatibilidade</Item>
+		<Item Name="ContractIncomeMsg">Recebeu {0} por aceitar contrato</Item>
+		<Item Name="VSyncWarning">Desligar o VSync pode danificar sua placa gráfica durante longos períodos de reprodução, devido ao superaquecimento.
+Você tem certeza que quer continuar?</Item>
+		<Item Name="RoomLowEnv">Esta sala é feia</Item>
+		<Item Name="FurnitureBlockedStaff">Você tem móveis que sua equipe não consegue alcançar</Item>
 		<Item Name="DesignDetailBoxNew">ETA: {3}
-Artists needed: {7}
-Expected interest: {0}%
-Innovation: {4}
-Stability: {5}
-Usability: {6}
-OS coverage: {1}%
-License costs: {2}
-Recommended team size: {8}</Item>
-		<Item Name="Available contracts">Available contracts</Item>
-		<Item Name="Finished contracts">Finished contracts</Item>
-		<Item Name="ContractEarly">{0} month(s) early</Item>
-		<Item Name="ContractLate">{0} month(s) too late</Item>
-		<Item Name="ContractOnTime">on time</Item>
-		<Item Name="CloneToolTitle">Clone tool</Item>
-		<Item Name="CloneToolDesc">Use this to clone the currently selected rooms</Item>
-		<Item Name="ActionRoomUnpair">Unassign rooms</Item>
-		<Item Name="ActionRoomPair">Assign room</Item>
-		<Item Name="Hire IT-support">Hire IT-support</Item>
-		<Item Name="ComplaintDialogInfo">Name: {0}
-Age: {1}
-Role: {2}
-Team: {3}
-Years with company: {4}</Item>
-		<Item Name="Complaints">Complaints</Item>
-		<Item Name="Current salary">Current salary</Item>
-		<Item Name="Demanded salary">Demanded salary</Item>
-		<Item Name="Accept demand">Accept demand</Item>
-		<Item Name="Fire employee">Fire employee</Item>
-		<Item Name="PrematureDelayWarning">Are you sure you want to end the delay phase?
-Ending the delay phase prematurely will often extend the beta phase due to the amount of additional bugs.</Item>
+Artistas necessários: {7}
+Interesse esperado: {0}%
+Criador: {4}
+Estabilidade: {5}
+Usabilidade: {6}
+Cobertura do SO: {1}%
+Custos de licença: {2}
+Tamanho da equipe recomendada: {8}</Item>
+		<Item Name="Available contracts">Contratos disponíveis</Item>
+		<Item Name="Finished contracts">Contratos acabados</Item>
+		<Item Name="ContractEarly">{0} mês(es) early</Item>
+		<Item Name="ContractLate">{0} mês(s) atrasado</Item>
+		<Item Name="ContractOnTime">no tempo</Item>
+		<Item Name="CloneToolTitle">Ferramenta de clonagem</Item>
+		<Item Name="CloneToolDesc">Use isso para clonar os quartos atualmente selecionados</Item>
+		<Item Name="ActionRoomUnpair">Não atribuir salas</Item>
+		<Item Name="ActionRoomPair">Atribuir sala</Item>
+		<Item Name="Hire IT-support">Contratar suporte de TI</Item>
+		<Item Name="ComplaintDialogInfo">Nome: {0}
+Idade: {1}
+Função: {2}
+Equipe: {3}
+Anos na empresa: {4}</Item>
+		<Item Name="Complaints">Reclamações</Item>
+		<Item Name="Current salary">Salário atual</Item>
+		<Item Name="Demanded salary">Salário exigido</Item>
+		<Item Name="Accept demand">Aceitar pedido</Item>
+		<Item Name="Fire employee">Demitir empregado</Item>
+		<Item Name="PrematureDelayWarning">Tem certeza de que deseja encerrar a fase de delay?
+Terminar a fase de delay prematuramente irá prolongar a fase beta devido à quantidade de erros adicionais.</Item>
 	</Alpha4.6>
 	<Alpha4.7>
-			<Item Name="DesignProductTeamSizeHintLarge">The size of the team you've chosen is quite large for a project of this size
-Are you sure you want to continue?</Item>
-			<Item Name="CloneComplexityWarning">You're cloning a large amount of stuff, which could overwhelm your computer.
-Are you sure you want to continue?</Item>
-			<Item Name="UnreachableFurniture">Staff is unable to reach this {0}
-Make sure nothing is in the way</Item>
-			<Item Name="UnreachableParking">This parking spot cannot be reached
-Make sure it is connected to the main road</Item>
-			<Item Name="EmployeeStuck">{0} cannot get home
-Make sure there is a path out of the building with nothing blocking the way</Item>
-			<Item Name="Coverage">Coverage</Item>
+			<Item Name="DesignProductTeamSizeHintLarge">O tamanho da equipe que você escolheu é muito grande para um projeto desse tamanho
+Você tem certeza que quer continuar?</Item>
+			<Item Name="CloneComplexityWarning">Você está clonando uma grande quantidade de coisas, o que pode sobrecarregar seu computador.
+Você tem certeza que quer continuar?</Item>
+			<Item Name="UnreachableFurniture">O pessoal não consegue alcançar este {0}
+Certifique-se de que nada esteja no caminho</Item>
+			<Item Name="UnreachableParking">Seu local de estacionamento não pode ser acessado
+Certifique-se de que ele está conectado à estrada principal</Item>
+			<Item Name="EmployeeStuck">{0} não pode ir pra casa
+Certifique-se de que existe um caminho para fora do prédio com nada bloqueando o caminho</Item>
+			<Item Name="Coverage">Cobertura</Item>
 	</Alpha4.7>
 	<Alpha5.1>
-		<Item Name="I agree">I agree</Item>
-		<Item Name="Validate">Validate</Item>
-		<Item Name="Forest">Forest</Item>
-		<Item Name="City">City</Item>
-		<Item Name="StockBuyOutError">You have to own all stocks in a company before you can buy it out</Item>
-		<Item Name="CompanyDetailInfo">Worth: {0}
-Share: {1}
-Founded: {2}
-Products: {3}
+		<Item Name="I agree">Eu concordo</Item>
+		<Item Name="Validate">Validar</Item>
+		<Item Name="Forest">Floresta</Item>
+		<Item Name="City">Cidade</Item>
+		<Item Name="StockBuyOutError">Você deve possuir todas as ações de uma empresa para que você possa compra-lá</Item>
+		<Item Name="CompanyDetailInfo">Valor: {0}
+Ação: {1}
+Fundado: {2}
+Produtos: {3}
 Original IPs: {4}
-Companies bought: {5}</Item>
-		<Item Name="Electricity">Electricity</Item>
-		<Item Name="Water">Water</Item>
-		<Item Name="Maintenance">Maintenance</Item>
-		<Item Name="HostingDeal">Hosting for {0}</Item>
+Empresas compradas: {5}</Item>
+		<Item Name="Electricity">Eletricidade</Item>
+		<Item Name="Water">Água</Item>
+		<Item Name="Maintenance">Manutenção</Item>
+		<Item Name="HostingDeal">Hospedagem para {0}</Item>
 		<Item Name="IPDeal">{0} IP</Item>
-		<Item Name="WorkDeal">{1} for {0}</Item>
-		<Item Name="Deals">Deals</Item>
-		<Item Name="Description">Description</Item>
-		<Item Name="Client">Client</Item>
-		<Item Name="Offer">Offer</Item>
-		<Item Name="ServerDealDetail">Type: {0}
-Power unit per hour: {1}
-Required units: {2}</Item>
-		<Item Name="MainDealsDesc">Strike deals with other companies and beat them from the inside
-You need a reception to receive offers</Item>
-		<Item Name="IPDealActionBuy">Do you want to buy this IP for {0}?</Item>
-		<Item Name="IPDealActionSell">Do you want to sell this IP to {0} for {1}?</Item>
-		<Item Name="IPDealActionFail">Nobody is interested in buying this IP</Item>
-		<Item Name="Trade IP">Trade IP</Item>
-		<Item Name="SheetDeals">Deals</Item>
-		<Item Name="Receptionist">Receptionist</Item>
-		<Item Name="Guest">Guest</Item>
-		<Item Name="Hire Receptionist">Hire receptionist</Item>
-		<Item Name="CompanyNameWarning">You haven't picked a company name.
-Are you sure you want to continue?</Item>
-		<Item Name="ActionConnectServers">Connect servers</Item>
-		<Item Name="WireMode">Wire mode</Item>
-		<Item Name="GuestCompany">{0} on behalf of {1}</Item>
+		<Item Name="WorkDeal">{1} por {0}</Item>
+		<Item Name="Deals">Acordos</Item>
+		<Item Name="Description">Descrição</Item>
+		<Item Name="Client">Cliente</Item>
+		<Item Name="Offer">Ofertas</Item>
+		<Item Name="ServerDealDetail">Tipo: {0}
+Unidade de potência por hora: {1}
+Unidades necessárias: {2}</Item>
+		<Item Name="MainDealsDesc">Negociar acordos com outras empresas diretamente de sua empresa
+Você precisa de uma maior recepção para receber ofertas</Item>
+		<Item Name="IPDealActionBuy">Você quer comprar este IP para {0}?</Item>
+		<Item Name="IPDealActionSell">Você quer vender este IP para {0} por {1}?</Item>
+		<Item Name="IPDealActionFail">Ninguém está interessado em comprar este IP</Item>
+		<Item Name="Trade IP">Negociar IP</Item>
+		<Item Name="SheetDeals">Acordos</Item>
+		<Item Name="Receptionist">Recepcionista</Item>
+		<Item Name="Guest">Convidado</Item>
+		<Item Name="Hire Receptionist">Contratar recepcionista</Item>
+		<Item Name="CompanyNameWarning">Você não escolheu o nome da empresa.
+Você tem certeza que quer continuar?</Item>
+		<Item Name="ActionConnectServers">Conectar servidores</Item>
+		<Item Name="WireMode">Modo de fio</Item>
+		<Item Name="GuestCompany">{0} em nome de {1}</Item>
 	</Alpha5.1>
 	<Alpha5.2>
-		<Item Name="SupportWorkSlowWarning">Your employees can't keep up with support for {0}</Item>
-		<Item Name="SupportWorkCancelWarning">Cancelling support for a product with bugs still present will anger your custormers!
-Are you sure you want to continue?</Item>
+		<Item Name="SupportWorkSlowWarning">Seus funcionários não conseguem acompanhar o suporte para {0}</Item>
+		<Item Name="SupportWorkCancelWarning">Cancelar o suporte para um produto com bugs irá irritar seus clientes!
+Você tem certeza que quer continuar?</Item>
 	</Alpha5.2>
 	<Alpha5.3>
-		<Item Name="AcceptAllWages">Accept all and close</Item>
-		<Item Name="AcceptAllWagesWarning">Are you sure you want to accept all demands?
-The raises averages {0}, which is a net change of {1} per month</Item>
-		<Item Name="FurnitureQueue">{0} employee(s) waiting to use</Item>
-		<Item Name="Upcoming events">Upcoming events</Item>
-		<Item Name="UpcomingEvDesc">Click here to see a list of events coming up next month. The icon will glow red if very important events are happening.</Item>
-		<Item Name="RetireEventMsg">{0} from team {1} will retire next month, after working for {2} for {3} years.</Item>
-		<Item Name="VacationEventMsg1">{0} have planned vacations next month and {1} employees are scheduled to hold their vacation.</Item>
-		<Item Name="VacationEventMsg2">No teams have planned vacations next month but {0} employees are scheduled to hold their vacation.</Item>
-		<Item Name="ReleaseEventMsg">{0} plans to release a product of type {1} called "{2}" next month.</Item>
-		<Item Name="ExceptionNotificationTip">An error occured!</Item>
-		<Item Name="ExceptionNotificationTip2">Click here for details</Item>
-		<Item Name="ExceptionNotificationMsg">I'm sorry to inform you that an error occured just now, which might cause the game to break or become unstable (Early access, right?).
-If you have a recent save, I would suggest closing the game, re-opening it and then loading it, as you might not be able to save the current game as of now.
-If you have an idea of what happened based on the error message (click the "See error" button to check) and you can reproduce it, I would be very grateful if you could send a mail to SoftwareInc@Coredumping.com with a description of the error, so that I may fix it.
-I'm very sorry for the inconvenience.</Item>
-		<Item Name="UI size">UI size</Item>
-		<Item Name="NoCompanyName">Please enter a non empty company name</Item>
-		<Item Name="Save picture">Save picture</Item>
-		<Item Name="Tweet picture">Tweet picture</Item>
-		<Item Name="TwitterDesc">What do you want to tell the world?</Item>
-		<Item Name="DefaultTweet">Look at my software empire! #SoftwareInc</Item>
-		<Item Name="Enter pin">Enter pin</Item>
-		<Item Name="TweetError">An error occured while trying to post your picture to Twitter</Item>
-		<Item Name="SteamImgQ">Do you want to save this screenshot to your Steam account?</Item>
+		<Item Name="AcceptAllWages">Aceitar tudo e fechar</Item>
+		<Item Name="AcceptAllWagesWarning">Tem certeza de que deseja aceitar todos os pedidos?
+O aumento dos salários {0}, que é uma mudança líquida de {1} por mês</Item>
+		<Item Name="FurnitureQueue">{0} empregado (s) esperando para usar</Item>
+		<Item Name="Upcoming events">Próximos eventoss</Item>
+		<Item Name="UpcomingEvDesc">Clique aqui para ver uma lista de eventos no próximo mês. O ícone ficará vermelho se eventos muito importantes estiverem acontecendo.</Item>
+		<Item Name="RetireEventMsg">{0} da equipe {1} vai se aposentar no próximo mês, depois de trabalhar como {2} por {3} anos.</Item>
+		<Item Name="VacationEventMsg1">{0} planejaram férias no próximo mês e {1} os funcionários estão programados para realizar suas férias.</Item>
+		<Item Name="VacationEventMsg2">Nenhuma equipe planejou férias no próximo mês, mas {0} os funcionários estão programados para realizar suas férias.</Item>
+		<Item Name="ReleaseEventMsg">{0} planeja lançar um produto de tipo {1} chamado "{2}" próximo mês.</Item>
+		<Item Name="ExceptionNotificationTip">Um erro ocorreu!</Item>
+		<Item Name="ExceptionNotificationTip2">Clique aqui para mais detalhes</Item>
+		<Item Name="ExceptionNotificationMsg">Lamento informar que ocorreu um erro no momento, o que pode fazer com que o jogo se feche ou se torne instável (Early access, Certo?).
+Se você tiver uma save recente, sugiro fechar o jogo, reabertá-lo e depois carregá-lo, pois talvez você não consiga salvar o jogo atual a partir de agora.
+Se você tiver uma idéia do que aconteceu com base na mensagem de erro (clique no botão "Ver erro" para verificar) e você pode reproduzi-lo, eu ficaria muito grato se você pudesse enviar um e-mail para SoftwareInc@Coredumping.com com uma descrição do erro, para que eu possa corrigi-lo.
+Lamento muito o inconveniente.</Item>
+		<Item Name="UI size">Tamanho da Interface do Utilizador</Item>
+		<Item Name="NoCompanyName">Digite um nome de empresa, não deixe em branco</Item>
+		<Item Name="Save picture">Salvar imagem</Item>
+		<Item Name="Tweet picture">Tweet imagem</Item>
+		<Item Name="TwitterDesc">O que está acontecendo?</Item>
+		<Item Name="DefaultTweet">Olha meu império do software! #SoftwareInc</Item>
+		<Item Name="Enter pin">Digite a senha</Item>
+		<Item Name="TweetError">Ocorreu um erro ao tentar publicar sua imagem no Twitter</Item>
+		<Item Name="SteamImgQ">Deseja salvar esta captura de tela na sua conta do Steam?</Item>
 	</Alpha5.3>
 	<Alpha5.4>
-		<Item Name="WindowPref">Window preferences</Item>
-		<Item Name="Reset">Reset</Item>
-		<Item Name="Upcoming releases">Upcoming releases</Item>
-		<Item Name="UpcomingRelDesc">See a list of announced releases from your competitors.</Item>
-		<Item Name="Close all windows">Close all windows</Item>
-		<Item Name="CloseAllWindowWarning">Are you sure you want to close all windows?</Item>
-		<Item Name="Only sequels">Only sequels</Item>
-		<Item Name="Select fallback">Select fallback</Item>
-		<Item Name="Fallback">Fallback</Item>
-		<Item Name="Project">Project</Item>
-				<Item Name="NewWorkDealDetail">Type: {0}
-Software: {1}
-Per day: {2}
-Expires: {3}</Item>
-		<Item Name="Desert">Desert</Item>
+		<Item Name="WindowPref">Preferências da janela</Item>
+		<Item Name="Reset">Reiniciar</Item>
+		<Item Name="Upcoming releases">Próximos lançamentos</Item>
+		<Item Name="UpcomingRelDesc">Veja uma lista de lançamentos anunciados de seus concorrentes.</Item>
+		<Item Name="Close all windows">Feche todas as janelas</Item>
+		<Item Name="CloseAllWindowWarning">Tem certeza de que deseja fechar todas as janelas?</Item>
+		<Item Name="Only sequels">Somente franquias</Item>
+		<Item Name="Select fallback">Selecionar retorno</Item>
+		<Item Name="Fallback">Retorno</Item>
+		<Item Name="Project">Projeto</Item>
+				<Item Name="NewWorkDealDetail">Tipo: {0}
+Programa: {1}
+Por dia: {2}
+Expira: {3}</Item>
+		<Item Name="Desert">Deserto</Item>
 		<Item Name="Tundra">Tundra</Item>
-		<Item Name="Paused">Paused</Item>
+		<Item Name="Paused">Pausado</Item>
 	</Alpha5.4>
 	<Alpha6>
-		<Item Name="ActionDismantle">Dismantle</Item>
-		<Item Name="Dismantle">Dismantle</Item>
-		<Item Name="DismantleMsg">Are you sure you want to dismantle {0} wall segments?</Item>
-		<Item Name="DismantleMsg2">Dismantle {0} wall segments</Item>
-		<Item Name="WallSegments">Wall segments</Item>
-		<Item Name="AngleSnapDesc">Change furniture snapping angle</Item>
-		<Item Name="DoubleGridSize">Double grid size</Item>
-		<Item Name="HalveGridSize">Halve grid size</Item>
-		<Item Name="ChangeGridAnchor">Anchor grid to an object or wall in the world</Item>
-		<Item Name="ResetGrid">Reset grid</Item>
-		<Item Name="ActionMergeRooms">Merge rooms</Item>
-		<Item Name="Turn furniture clockwise">Turn furniture clockwise</Item>
-		<Item Name="Turn furniture counter clockwise">Turn furniture counter clockwise</Item>
-		<Item Name="Grid">Grid</Item>
-		<Item Name="ActionSelectWall">Select all segments on this wall</Item>
-		<Item Name="ActionDuplicate">Duplicate</Item>
-		<Item Name="RoomNarrowError">Room walls have to be 1.0 unit apart</Item>
-		<Item Name="RoomIntersectError">Walls cannot intersect</Item>
-		<Item Name="RoomInsideError">You cannot build rooms around rooms</Item>
-		<Item Name="FurnitureSnapError">This has to be placed at the indicated points</Item>
-		<Item Name="RoomInRoomError">You can't build rooms inside rooms</Item>
-		<Item Name="Construct rectangle room">Construct rectangle room</Item>
+		<Item Name="ActionDismantle">Desmontar</Item>
+		<Item Name="Dismantle">Desmontar</Item>
+		<Item Name="DismantleMsg">Tem certeza de que deseja desmontar {0} segmentos de parede?</Item>
+		<Item Name="DismantleMsg2">Desmontar {0} segmentos de parede</Item>
+		<Item Name="WallSegments">Segmentos de parede</Item>
+		<Item Name="AngleSnapDesc">Mude o ângulo de encaixe dos móveis</Item>
+		<Item Name="DoubleGridSize">Tamanho da grade dupla</Item>
+		<Item Name="HalveGridSize">Reduzir a metade o tamanho da grade</Item>
+		<Item Name="ChangeGridAnchor">Grade de âncora para um objeto ou parede no mundo</Item>
+		<Item Name="ResetGrid">Redefinir grade</Item>
+		<Item Name="ActionMergeRooms">Mesclar salas</Item>
+		<Item Name="Turn furniture clockwise">Gire os móveis no sentido horário</Item>
+		<Item Name="Turn furniture counter clockwise">Gire os móveis no sentido anti-horário</Item>
+		<Item Name="Grid">Grade</Item>
+		<Item Name="ActionSelectWall">Selecione todos os segmentos nesta parede</Item>
+		<Item Name="ActionDuplicate">Duplicar</Item>
+		<Item Name="RoomNarrowError">As paredes da sala devem estar separadas por 1,0 unidade</Item>
+		<Item Name="RoomIntersectError">Paredes não pode se cruzam</Item>
+		<Item Name="RoomInsideError">Você não pode construir salas em torno de salas</Item>
+		<Item Name="FurnitureSnapError">Isso deve ser colocado nos pontos indicados</Item>
+		<Item Name="RoomInRoomError">Você não pode construir salas dentro das salas</Item>
+		<Item Name="Construct rectangle room">Construir sala retângulares</Item>
 		<Item Name="CorruptSaveFile">
-This save file is corrupt.
-It is probably from an older version of Software Inc. which is no longer supported.</Item>
+Este arquivo de salvo está corrompido.
+Provavelmente, é uma versão mais antiga do Software Inc., que já não é suportada.</Item>
 	</Alpha6>
 	<Alpha6.4>
-		<Item Name="DynamicSegmentHint">Click and drag to scale this segment</Item>
+		<Item Name="DynamicSegmentHint">Clique e arraste para dimensionar esse segmento</Item>
 	</Alpha6.4>
 	<Alpha6.5>
-		<Item Name="RotateFurnHint2">Click and drag to rotate your furniture
-Or press {0} or {1}</Item>
-		<Item Name="Delete">Delete</Item>
-		<Item Name="DeleteSaveConf">Are you sure you want to delete this save file?
-You won't be able to recover it later!</Item>
-		<Item Name="DeleteFail">An error occured trying to delete the save file
-Make sure you have permission to delete this file on your computer</Item>
-		<Item Name="AskMarketingOption">Ask about marketing on release</Item>
+		<Item Name="RotateFurnHint2">Clique e arraste para girar o seu mobiliário
+Ou pressione {0} ou {1}</Item>
+		<Item Name="Delete">Deletar</Item>
+		<Item Name="DeleteSaveConf">Tem certeza de que deseja excluir este arquivo?
+Você não poderá recuperá-lo mais tarde!</Item>
+		<Item Name="DeleteFail">Ocorreu um erro ao tentar excluir o arquivo
+Certifique-se de ter permissão para excluir este arquivo em seu computador</Item>
+		<Item Name="AskMarketingOption">Pergunte sobre marketing no lançamento</Item>
 	</Alpha6.5>
 	<Alpha6.11>
-		<Item Name="Overall skill">Overall skill</Item>
-		<Item Name="Skill interview">Skill interview</Item>
-		<Item Name="Specialization interview">Specialization interview</Item>
-		<Item Name="Personality interview">Personality interview</Item>
+		<Item Name="Overall skill">Habilidade geral</Item>
+		<Item Name="Skill interview">Entrevista de habilidade</Item>
+		<Item Name="Specialization interview">Entrevista de especialização</Item>
+		<Item Name="Personality interview">Entrevista de personalidade</Item>
 		<Item Name="SSAA">SSAA</Item>
-		<Item Name="SSAAHint">Super-sampling antialiasing renders the game in double resolution to smooth out edges as much as possible (Requires a high-end graphics card)</Item>
-		<Item Name="Event">Event</Item>
-		<Item Name="InsuranceDescription">Life insurance per employee: {0}
-Health insurance per employee: {1}
-Pension per employee: {2}</Item>
-		<Item Name="Payments">Payments</Item>
-		<Item Name="Employee">Employee</Item>
+		<Item Name="SSAAHint">Antialiasing de super-amostragem torna o jogo em resolução dupla para alisar as bordas o máximo possível (requer uma placa gráfica de ponta)</Item>
+		<Item Name="Event">Evento</Item>
+		<Item Name="InsuranceDescription">Seguro de vida por empregado: {0}
+Seguro de saúde por empregado: {1}
+Pensão por empregado: {2}</Item>
+		<Item Name="Payments">Pagamentos</Item>
+		<Item Name="Employee">Empregado</Item>
 	</Alpha6.11>
 	<Alpha6.12>
-		<Item Name="Loans">Loans</Item>
+		<Item Name="Loans">Empréstimos</Item>
 	</Alpha6.12>
 	<Alpha6.13>
-		<Item Name="KeyBindingHint">Press a button...</Item>
-		<Item Name="Context menu">Context menu</Item>
-		<Item Name="Rotate camera">Rotate camera</Item>
+		<Item Name="KeyBindingHint">Pressione um botão...</Item>
+		<Item Name="Context menu">Menu de contexto</Item>
+		<Item Name="Rotate camera">Rodar a câmera</Item>
 	</Alpha6.13>
 	<Alpha6.14>
-		<Item Name="Segment">Segment</Item>
+		<Item Name="Segment">Segmento</Item>
 	</Alpha6.14>
 	<Alpha6.18>
 		<Item Name="SaveDeletedError">This save file no longer exists on your computer and will be removed</Item>
