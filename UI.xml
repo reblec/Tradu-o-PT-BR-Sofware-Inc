@@ -544,120 +544,120 @@ Se você quiser dividir uma sala, você deve construir de parede em parede</Item
 		<Item Name="FurnitureAtTable">Você deve colocar isso em uma mesa</Item>
 	</Warnings>
 	<Affectors>
-		<Item Name="Hunger">Hunger</Item>
-		<Item Name="Energy">Energy</Item>
-		<Item Name="Bladder">Bladder</Item>
-		<Item Name="Job satisfaction">Job satisfaction</Item>
-		<Item Name="Fired">Fired</Item>
-		<Item Name="Temperature">Temperature</Item>
-		<Item Name="Environment">Environment</Item>
-		<Item Name="Comfort">Comfort</Item>
-		<Item Name="Computer">Computer</Item>
-		<Item Name="Noise">Noise</Item>
-		<Item Name="Lighting">Lighting</Item>
-		<Item Name="Basement">Basement</Item>
-		<Item Name="Other teams">Other teams</Item>
-		<Item Name="Hunger">Hunger</Item>
+		<Item Name="Hunger">Fome</Item>
+		<Item Name="Energy">Energia</Item>
+		<Item Name="Bladder">Bexiga</Item>
+		<Item Name="Job satisfaction">Satisfação no trabalho</Item>
+		<Item Name="Fired">Demitido</Item>
+		<Item Name="Temperature">Temperatura</Item>
+		<Item Name="Environment">Ambiente</Item>
+		<Item Name="Comfort">Conforto</Item>
+		<Item Name="Computer">Computador</Item>
+		<Item Name="Noise">Barulho</Item>
+		<Item Name="Lighting">Iluminação</Item>
+		<Item Name="Basement">Porão</Item>
+		<Item Name="Other teams">outra equipes</Item>
+		<Item Name="Hunger">Fome</Item>
 	</Affectors>
 	<Dialogs>
-		<Item Name="EmployeeQuitTitle">{0} wants to quit</Item>
-		<Item Name="AndSeperator"> and </Item>
-		<Item Name="OrSeperator"> or </Item>
-		<Item Name="EmployeeQuitRaise">Raise salary by {0}</Item>
-		<Item Name="DemoWarning">This feature is not available in the demo</Item>
-		<Item Name="DemoFloorWarning">You are only allowed to build on the first two floors in the demo</Item>
-		<Item Name="OverwriteConfirmMsg">Are you sure you want to overwrite?</Item>
-		<Item Name="OverwriteConfirmTitle">Confirmation</Item>
-		<Item Name="DismissTitle">Dismiss</Item>
-		<Item Name="DismissMsg">Are you sure you want to dismiss {0} workers?</Item>
-		<Item Name="DismissMsg2">Dismiss {0} workers</Item>
-		<Item Name="SellTitle">Sell</Item>
-		<Item Name="SellMsg">Are you sure you want to sell {0} pieces of furniture?</Item>
-		<Item Name="SellMsg2">Sell {0} pieces of furniture</Item>
-		<Item Name="BulldozeTitle">Bulldoze</Item>
-		<Item Name="BulldozeMsg">Are you sure you want to bulldoze {0} rooms?</Item>
-		<Item Name="BulldozeMsg2">Bulldoze {0} rooms</Item>
-		<Item Name="CannotBulldozeSupport">One or more rooms are used for support and cannot be destroyed</Item>
-		<Item Name="MissingSaveContinue">You need to have a game saved before you can continue</Item>
-		<Item Name="SaveGameSuccess">Game saved</Item>
-		<Item Name="SaveGameSuccessTitle">Success</Item>
-		<Item Name="NoStockInterest">Nobody is interested in this stock</Item>
-		<Item Name="NoStockInterestTitle">Sorry</Item>
-		<Item Name="StockWatError">You can't sell your entire company, that would make you lose.</Item>
-		<Item Name="StockRepLow">Your reputation is too low to trade stocks of this amount</Item>
-		<Item Name="HRNoRooms">You have enabled HR management for a team that has no rooms.
-Please designate at least one room for this team</Item>
-		<Item Name="DesignProductNameError">A product with this name already exists</Item>
-		<Item Name="ProductOSError">Please select one or more operating systems</Item>
-		<Item Name="ProductNeedError">Please select a product for each need</Item>
-		<Item Name="DesignProductNameHint">You haven't picked a name for your software, are you sure you want to continue?</Item>
-		<Item Name="DesignProductTeamSizeHint">The size of the team you've chosen is quite small for a project of this size
-Are you sure you want to continue?</Item>
-		<Item Name="DesignProductFeatureHint">You have selected features that no one on your team is competent with.
-Are you sure you want to continue?</Item>
-		<Item Name="ProductLicenseError">You can't afford the license costs</Item>
-		<Item Name="DistributionNameError">This name is already taken</Item>
-		<Item Name="DistributionServerError">Please select a server</Item>
-		<Item Name="DistributionNameWarning">Are you sure you want to open a distribution channel named {0}? You won't be able to change the name later</Item>
-		<Item Name="DistributionOfflineWarning">Are you sure you want to take it offline? This will anger your clients and their customers</Item>
-		<Item Name="EmployeeCourseBookError">The employee(s) you selected are already scheduled for courses</Item>
-		<Item Name="TeamNameError">A team with this name already exists</Item>
-		<Item Name="TeamEmptyNameError">Please enter a non-empty team name</Item>
-		<Item Name="LowMoneyHireWarning">You have limited funds to sustain your company if you hire {0}. Are you sure don't want to wait?</Item>
-		<Item Name="LowInsuranceHireWarning">You don't have a lot of funds in your insurance account, which will decrease the amount of high quality applicants. Are you sure you want to continue?</Item>
-		<Item Name="WinDialogMsg">Congratulations! You completed this scenario.</Item>
-		<Item Name="WinDialogMsgTitle">You win!</Item>
-		<Item Name="WinDialogMsgQuit">Quit</Item>
-		<Item Name="WinDialogMsgContinue">Continue playing</Item>
-		<Item Name="LoseDialogMsg">You failed to complete this scenario.</Item>
-		<Item Name="LoseDialogMsgTitle">You lose!</Item>
-		<Item Name="BankruptInsurance">You have {0} in your account.
-Do you want to withdraw {1} from your insurance funds to try to avoid going bankrupt?</Item>
-		<Item Name="BankruptStock">You have {0} in your account.
-Do you want to sell your stocks worth {1} to try to avoid going bankrupt?</Item>
-		<Item Name="BankruptLoan">You have {0} in your account.
-Do you want to take a loan worth {1} to avoid going bankrupt?</Item>
-		<Item Name="BankruptLoseMsg">You went bankrupt with {0} in your account.</Item>
+		<Item Name="EmployeeQuitTitle">{0} quer sair</Item>
+		<Item Name="AndSeperator"> e </Item>
+		<Item Name="OrSeperator"> ou </Item>
+		<Item Name="EmployeeQuitRaise">Aumentar o salário para {0}</Item>
+		<Item Name="DemoWarning">Este recurso não está disponível na demo :(</Item>
+		<Item Name="DemoFloorWarning">Você só pode construir nos dois primeiros andares na demo :(</Item>
+		<Item Name="OverwriteConfirmMsg">Tem certeza de que quer substituir?</Item>
+		<Item Name="OverwriteConfirmTitle">Confirmação</Item>
+		<Item Name="DismissTitle">Dispensar</Item>
+		<Item Name="DismissMsg">Tem certeza de que deseja dispensar {0} funcionários?</Item>
+		<Item Name="DismissMsg2">Dispensar {0} funcionários</Item>
+		<Item Name="SellTitle">Vender</Item>
+		<Item Name="SellMsg">Tem certeza de que deseja vender {0} móveis?</Item>
+		<Item Name="SellMsg2">Vender {0} móveis</Item>
+		<Item Name="BulldozeTitle">Demolir</Item>
+		<Item Name="BulldozeMsg">Você tem certeza que quer demolir {0} salas?</Item>
+		<Item Name="BulldozeMsg2">Demolir {0} salas</Item>
+		<Item Name="CannotBulldozeSupport">Uma ou mais salas são usados como suporte e não podem ser destruídas</Item>
+		<Item Name="MissingSaveContinue">Você precisa ter um jogo salvo antes de poder continuar</Item>
+		<Item Name="SaveGameSuccess">Jogo Salvo</Item>
+		<Item Name="SaveGameSuccessTitle">Sucesso</Item>
+		<Item Name="NoStockInterest">Ninguém está interessado neste estoque</Item>
+		<Item Name="NoStockInterestTitle">Desculpa</Item>
+		<Item Name="StockWatError">Você não pode vender sua empresa inteira, isso acabaria com seu jogo.</Item>
+		<Item Name="StockRepLow">Sua reputação é muito baixa para negociar estoques desse valor</Item>
+		<Item Name="HRNoRooms">Você habilitou o gerenciamento de RH para uma equipe que não possui salas.
+Designe pelo menos uma sala para esta equipe</Item>
+		<Item Name="DesignProductNameError">Já existe um produto com este nome</Item>
+		<Item Name="ProductOSError">Selecione um ou mais sistemas operacionais</Item>
+		<Item Name="ProductNeedError">Selecione um produto para cada necessidade</Item>
+		<Item Name="DesignProductNameHint">Você não escolheu um nome para o seu software, você tem certeza de que deseja continuar?</Item>
+		<Item Name="DesignProductTeamSizeHint">O tamanho da equipe que você escolheu é bastante pequeno para um projeto desse tamanho
+Você tem certeza que quer continuar?</Item>
+		<Item Name="DesignProductFeatureHint">Você selecionou recursos que ninguém em sua equipe é competente.
+Você tem certeza que quer continuar?</Item>
+		<Item Name="ProductLicenseError">Você não pode pagar os custos da licença</Item>
+		<Item Name="DistributionNameError">Este nome já tem dono</Item>
+		<Item Name="DistributionServerError">Selecione um servidor</Item>
+		<Item Name="DistributionNameWarning">Tem certeza de que deseja abrir um canal de distribuição chamado {0}? Você não poderá mudar o nome mais tarde</Item>
+		<Item Name="DistributionOfflineWarning">Tem certeza quer que ele seja desligado? Isso ira irritar seus clientes e seus consumidores</Item>
+		<Item Name="EmployeeCourseBookError">O(s) empregado(s) que você selecionou já estão progamados para cursos</Item>
+		<Item Name="TeamNameError">Já existe uma equipe com este nome</Item>
+		<Item Name="TeamEmptyNameError">Favor escrever o nome da equipe</Item>
+		<Item Name="LowMoneyHireWarning">Você tem fundos limitados para sustentar sua empresa se você contratar {0}. Tem certeza de que não quer esperar?</Item>
+		<Item Name="LowInsuranceHireWarning">Você não tem muitos fundos em sua conta de seguro, o que irá diminuir a quantidade de candidatos de alta qualidade. Você tem certeza que quer continuar?</Item>
+		<Item Name="WinDialogMsg">Parabéns! Você completou esse cenário.</Item>
+		<Item Name="WinDialogMsgTitle">Você ganhou!</Item>
+		<Item Name="WinDialogMsgQuit">Sair</Item>
+		<Item Name="WinDialogMsgContinue">Continue jogando</Item>
+		<Item Name="LoseDialogMsg">Você não conseguiu completar esse cenário.</Item>
+		<Item Name="LoseDialogMsgTitle">Você perdeu!</Item>
+		<Item Name="BankruptInsurance">Você tem {0} na sua conta.
+Deseja retirar {1} dos seus fundos de seguro para tentar evitar a falência?</Item>
+		<Item Name="BankruptStock">Você tem {0} na sua conta.
+Você quer vender suas ações no valor de {1} para tentar evitar a falência?</Item>
+		<Item Name="BankruptLoan">Você tem {0} na sua conta.
+Você quer tomar um empréstimo no valor de {1} para evitar a falência?</Item>
+		<Item Name="BankruptLoseMsg">Você faliu com {0} na sua conta.</Item>
 	</Dialogs>
 	<FurnitureInfo>
-		<Item Name="Currently used by">Currently used by</Item>
-		<Item Name="Owned by">Owned by</Item>
-		<Item Name="Nobody">Nobody</Item>
-		<Item Name="Currently on">Currently on</Item>
-		<Item Name="Currently off">Currently off</Item>
-		<Item Name="FurnitureUnlock">This item unlocks in the year {0}</Item>
+		<Item Name="Currently used by">Atualmente usado por</Item>
+		<Item Name="Owned by">Proprietário</Item>
+		<Item Name="Nobody">Ninguém</Item>
+		<Item Name="Currently on">Atualmente ligado</Item>
+		<Item Name="Currently off">Atualmente desligado</Item>
+		<Item Name="FurnitureUnlock">Este item desbloqueia em {0}</Item>
 	</FurnitureInfo>
 	<RoomLimitNames>
-		<Item Name="Lounge">Lounge</Item>
-		<Item Name="Anyone">Anyone</Item>
-		<Item Name="Leaders">Leaders</Item>
-		<Item Name="Programmers">Programmers</Item>
+		<Item Name="Lounge">Descanso</Item>
+		<Item Name="Anyone">Alguém</Item>
+		<Item Name="Leaders">Líderes</Item>
+		<Item Name="Programmers">Programadores</Item>
 		<Item Name="Designers">Designers</Item>
-		<Item Name="Artists">Artists</Item>
+		<Item Name="Artists">Artistas</Item>
 		<Item Name="Marketing">Marketing</Item>
 	</RoomLimitNames>
 	<BuildMode>
-		<Item Name="Wall">Wall</Item>
-		<Item Name="Door">Door</Item>
-		<Item Name="Elevator">Elevator</Item>
-		<Item Name="Window">Window</Item>
-		<Item Name="Road">Road</Item>
-		<Item Name="Parking">Parking</Item>
-		<Item Name="Room">Room</Item>
-		<Item Name="Destroy">Destroy</Item>
-		<Item Name="Remove">Remove</Item>
+		<Item Name="Wall">Parede</Item>
+		<Item Name="Door">Porta</Item>
+		<Item Name="Elevator">Elevador</Item>
+		<Item Name="Window">Janela</Item>
+		<Item Name="Road">Estrada</Item>
+		<Item Name="Parking">Estacionamento</Item>
+		<Item Name="Room">Sala</Item>
+		<Item Name="Destroy">Destruir</Item>
+		<Item Name="Remove">Remover</Item>
 		<Item Name="Normal">Normal</Item>
 		<Item Name="Horizontal">Horizontal</Item>
 		<Item Name="Vertical">Vertical</Item>
-		<Item Name="Construct room">Construct room</Item>
-		<Item Name="Remove road">Remove road</Item>
-		<Item Name="Build road">Build road</Item>
-		<Item Name="Not available in demo">Not available in demo</Item>
-		<Item Name="Office">Office</Item>
-		<Item Name="Temperature">Temperature</Item>
-		<Item Name="Lighting">Lighting</Item>
-		<Item Name="Needs">Needs</Item>
-		<Item Name="Decoration">Decoration</Item>
+		<Item Name="Construct room">Construir sala</Item>
+		<Item Name="Remove road">Remova estrada</Item>
+		<Item Name="Build road">Construir estrada</Item>
+		<Item Name="Not available in demo">Não está disponível na demo :(</Item>
+		<Item Name="Office">Escritório</Item>
+		<Item Name="Temperature">Temperatura</Item>
+		<Item Name="Lighting">Iluminação</Item>
+		<Item Name="Needs">Necessidades</Item>
+		<Item Name="Decoration">Decoração</Item>
 	</BuildMode>
 	<RightClick>
 		<Item Name="ActionPair">Assign furniture to employee</Item>
