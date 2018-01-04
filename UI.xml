@@ -478,70 +478,70 @@ Até {0} Por reparo</Item>
 		<Item Name="Hospitalized">Hospitalizado</Item>
 	</AI>
 	<Thoughts>
-		<Item Name="NoLikeWorker">I don't like {0}</Item>
-		<Item Name="LikeWorker">I really like {0}</Item>
-		<Item Name="WornOut">I am completely worn out</Item>
-		<Item Name="MeetingGreat">This meeting is great!</Item>
-		<Item Name="LoveWork">I love working</Item>
-		<Item Name="TooManyJobs">I have too many jobs at once</Item>
-		<Item Name="BadWageNeg">I'm not happy with how the last wage negotiations went</Item>
-		<Item Name="GoodSalary">I'm very happy with my salary</Item>
-		<Item Name="IsFreezing">I'm freezing</Item>
-		<Item Name="IsBurning">I'm burning up</Item>
-		<Item Name="NoSee">I can't see anything</Item>
-		<Item Name="RoomDirty">This place is dirty</Item>
-		<Item Name="RoomNotDirty">This place looks nice</Item>
-		<Item Name="UncomfortableFurniture">This furniture is uncomfortable</Item>
-		<Item Name="ComputerGood">My computer works really well</Item>
-		<Item Name="ComputerBad">My computer sucks</Item>
-		<Item Name="NoiseComplaint">There is too much noise in this room</Item>
-		<Item Name="NoNoiseGood">The room is nice and quiet</Item>
-		<Item Name="BasementComplaint">Working in the basement sucks</Item>
-		<Item Name="OtherTeamComplaint">I can't concentrate with other teams around me all the time</Item>
-		<Item Name="Starving">I am starving</Item>
-		<Item Name="HasToPee">I really have to pee</Item>
-		<Item Name="LowerSalaryComplaint">I didn't get the salary I wanted</Item>
-		<Item Name="HigherSalary">I just got a raise!</Item>
-		<Item Name="SalaryCutComplaint">My salary was cut</Item>
+		<Item Name="NoLikeWorker">Eu não gosto {0}</Item>
+		<Item Name="LikeWorker">Eu realmente gosto {0}</Item>
+		<Item Name="WornOut">Estou completamente esgotado</Item>
+		<Item Name="MeetingGreat">Esta reunião está ótimo!</Item>
+		<Item Name="LoveWork">Eu amo trabalhar</Item>
+		<Item Name="TooManyJobs">Eu tenho muitos trabalhos ao mesmo tempo</Item>
+		<Item Name="BadWageNeg">Não estou feliz com a forma como as últimas negociações salariais aconteceram</Item>
+		<Item Name="GoodSalary">Estou muito feliz com o meu salário</Item>
+		<Item Name="IsFreezing">Estou congelando</Item>
+		<Item Name="IsBurning">Estou queimando</Item>
+		<Item Name="NoSee">Não consigo ver nada</Item>
+		<Item Name="RoomDirty">Este lugar é sujoy</Item>
+		<Item Name="RoomNotDirty">Este lugar é legal</Item>
+		<Item Name="UncomfortableFurniture">Este mobiliário é desconfortável</Item>
+		<Item Name="ComputerGood">Meu computador funciona muito bem</Item>
+		<Item Name="ComputerBad">Meu computador é uma merda</Item>
+		<Item Name="NoiseComplaint">Há muito barulho nesta sala</Item>
+		<Item Name="NoNoiseGood">Essa sala é legal e silencioso</Item>
+		<Item Name="BasementComplaint">Trabalhar no porão é uma merda</Item>
+		<Item Name="OtherTeamComplaint">Não consigo me concentrar com outras equipes em torno de mim o tempo todo</Item>
+		<Item Name="Starving">eu estou faminto</Item>
+		<Item Name="HasToPee">Eu realmente tenho que fazer xixi</Item>
+		<Item Name="LowerSalaryComplaint">Eu não recebi o salário que eu queria</Item>
+		<Item Name="HigherSalary">Acabei de receber um aumento!</Item>
+		<Item Name="SalaryCutComplaint">Meu salário foi reduzido</Item>
 	</Thoughts>
 	<Warnings>
-		<Item Name="UnsatisfiedEmployeesWarning">Some employees are unhappy with their job</Item>
-		<Item Name="StarvingWarning">An employee is hungry and is having trouble working</Item>
-		<Item Name="HasToPeeWarning">An employee has to pee and is having trouble working</Item>
-		<Item Name="WornOutWarning">An employee is tired and can't work</Item>
-		<Item Name="FreezingWarning">An employee is freezing</Item>
-		<Item Name="BurningWarning">An employee is hot</Item>
-		<Item Name="NoSeeWarning">An employee stumbling in the dark. Build more lamps or windows</Item>
-		<Item Name="RoomDirtyWarning">An employee is grossed out by their office</Item>
-		<Item Name="RoomDirtyWarning2">A room is dirty and needs cleaning up</Item>
-		<Item Name="ComputerBadWarning">An employee is complaining about a slow computer. Make sure computers are in top shape by hiring IT support</Item>
-		<Item Name="NoiseWarning">An employee is having trouble concentrating due to noise. Reduce all sources of noise in a room or build cubicles</Item>
-		<Item Name="OtherTeamWarning">There are too many teams in one of your rooms. Divide your rooms or build cubicles</Item>
-		<Item Name="CannotAfford">You can't afford this</Item>
-		<Item Name="BusFullWarning">The busses are filling up, consider building parking</Item>
-		<Item Name="Click and drag">Click and drag</Item>
-		<Item Name="RoomClosedOff">There is no way to get in to this room
-Add doors or elevators</Item>
-		<Item Name="PublicToiletWarning">Employees won't use toilets in public
-Separate toilets in to other rooms</Item>
-		<Item Name="RoomOvercrowdWarning">There are a lot of computers in this room
-Overcrowded rooms can distract employees</Item>
-		<Item Name="RoomLighingWaning">There is not enough light here
-Add windows or lamps</Item>
-		<Item Name="FurnitureBrokeWarning">Some inventory broke and needs maintenance</Item>
-		<Item Name="UnsupportedStructure">The structure is not supported</Item>
-		<Item Name="RoomOnRoad">You can't build on top of roads</Item>
-		<Item Name="RoomInRoom">You can't build within other rooms.
-If you want to split a room you have to build from wall to wall</Item>
-		<Item Name="RoomOutOfPlot">You have to build within your plot boundaries</Item>
-		<Item Name="RoomTooSmall">Your rooms have to be at least 2x2</Item>
-		<Item Name="CannotReplaceDuplicateSegment">Can't replace {0} with {0}</Item>
-		<Item Name="SegmentOnBoundary">You have to place this on a room boundary</Item>
-		<Item Name="FurnitureInRoom">You have to place furniture inside your rooms</Item>
-		<Item Name="FurnitureOnWall">You have to place this up against a wall</Item>
-		<Item Name="FurnitureOnTable">You have to place this on an unoccupied table</Item>
-		<Item Name="FurnitureOccupied">This space is already occupied</Item>
-		<Item Name="FurnitureAtTable">You have to place this at a table</Item>
+		<Item Name="UnsatisfiedEmployeesWarning">Alguns funcionários estão infelizes com seu trabalho</Item>
+		<Item Name="StarvingWarning">Um funcionário está com fome e está tendo problemas para trabalhar</Item>
+		<Item Name="HasToPeeWarning">Um funcionário tem que fazer xixi e está tendo problemas para trabalhar</Item>
+		<Item Name="WornOutWarning">Um funcionário está cansado e não pode trabalhar</Item>
+		<Item Name="FreezingWarning">Um funcionário está congelando</Item>
+		<Item Name="BurningWarning">Um funcionário está com calor</Item>
+		<Item Name="NoSeeWarning">Um funcionário está tropeçando no escuro. Construa mais lâmpadas ou janelas</Item>
+		<Item Name="RoomDirtyWarning">Um funcionário está com nojo do escritório</Item>
+		<Item Name="RoomDirtyWarning2">Uma sala está suja e precisa ser limpa</Item>
+		<Item Name="ComputerBadWarning">Um funcionário está reclamando de um computador lento. Certifique-se de que os computadores estão em melhor forma contratando suporte de TI</Item>
+		<Item Name="NoiseWarning">Um funcionário está tendo problemas para se concentrar devido ao ruído. Reduzir todas as fontes de ruído em uma sala ou construa cabines</Item>
+		<Item Name="OtherTeamWarning">Existem muitas equipes em uma de suas salas. Divida suas salas ou construa cubículos</Item>
+		<Item Name="CannotAfford">Você não pode pagar isso</Item>
+		<Item Name="BusFullWarning">Os ônibus estão se enchendo, considere construir estacionamento</Item>
+		<Item Name="Click and drag">Clique e arraste</Item>
+		<Item Name="RoomClosedOff">Não há como entrar nesta sala
+Adicionar portas ou elevadores</Item>
+		<Item Name="PublicToiletWarning">Os funcionários não usarão banheiros em público
+Toques separados de outras salas</Item>
+		<Item Name="RoomOvercrowdWarning">Há muitos computadores nesta sala
+Quartos super lotação podem distrair funcionários</Item>
+		<Item Name="RoomLighingWaning">Não há luz suficiente aqui
+Adicionar janelas ou lâmpadas</Item>
+		<Item Name="FurnitureBrokeWarning">Algum equipamento quebrou e precisa de manutenção</Item>
+		<Item Name="UnsupportedStructure">A estrutura não é suportada</Item>
+		<Item Name="RoomOnRoad">Você não pode construir no topo das estradas</Item>
+		<Item Name="RoomInRoom">Você não pode construir dentro de outras sala.
+Se você quiser dividir uma sala, você deve construir de parede em parede</Item>
+		<Item Name="RoomOutOfPlot">Você precisa construir dentro dos seus limites</Item>
+		<Item Name="RoomTooSmall">As suas salas devem ser pelo menos 2x2</Item>
+		<Item Name="CannotReplaceDuplicateSegment">Não pode substituir{0} por {0}</Item>
+		<Item Name="SegmentOnBoundary">Você deve colocar isso no limite de uma sala</Item>
+		<Item Name="FurnitureInRoom">Você deve colocar móveis dentro de suas sala</Item>
+		<Item Name="FurnitureOnWall">Você deve colocar isso contra uma parede</Item>
+		<Item Name="FurnitureOnTable">Você deve colocar isso em uma mesa desocupada</Item>
+		<Item Name="FurnitureOccupied">Este espaço já está ocupado </Item>
+		<Item Name="FurnitureAtTable">Você deve colocar isso em uma mesa</Item>
 	</Warnings>
 	<Affectors>
 		<Item Name="Hunger">Hunger</Item>
