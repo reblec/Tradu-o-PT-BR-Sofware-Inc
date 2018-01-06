@@ -61,15 +61,15 @@ Criar uma nova mesa clicando no botão "Constuir" ou à procura de "mesa".</Mess
 	<Message id="BUILD MODE10">Agora, adicione uma cadeira. As cadeiras só podem ser adicionadas às mesas.
 
 Observe que alguns móveis, como cadeiras e mesas, podem ser substituídos por versões alternativas depois de terem sido colocadas. Você pode usar o menu de contexto do botão direito para substituir facilmente muitos móveis ao mesmo tempo, selecionando todos os móveis do mesmo tipo nas salas selecionadas, por exemplo.</Message>
-	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+	<Message id="BUILD MODE11">Finalmente, adicione um computador. Quando você adiciona um computador, mantenha pressionado o lugar onde deseja adicioná-lo e arraste o mouse na direção que desejar, solte o botão do mouse para colocá-lo.
 
-Computers have to sit on top of a table and face a chair.</Message>
-	<Message id="BUILD MODE12">When you put tables next to eachother they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just highlight one table and it's group will be highlighted in blue.
+Os computadores devem sentar-se em cima de uma mesa e enfrentar uma cadeira.</Message>
+	<Message id="BUILD MODE12">Quando você coloca as mesas ao lado, elas serão agrupadas se não tiverem nada em cima delas. As mesas agrupadas podem ser usadas para reuniões. Para ver quais mesas são agrupadas, basta destacar uma tabela e seu grupo será destacado em azul.
 
-It's important you control the noise levels in your working environment, try enabling the audio overlay to see what furniture is making noise.</Message>
-	<Message id="BUILD MODE13">Your founder does not get tired, hungry, cold, lonely, stressed, need bathroom breaks or get annoyed in general, but when you hire new employees they will. So make sure to add at least one vending machine, a coffee machine, a radiator, a ventilator and a separate bathroom before you hire new employees.
+É importante que você controle os níveis de ruído em seu ambiente de trabalho, tente habilitar a sobreposição de áudio para ver o que o mobiliário está fazendo barulho.</Message>
+	<Message id="BUILD MODE13">Seu fundador não está cansado, com fome, frio, solitário, estressado, precisa de quebra de casa de banho ou fica irritado em geral, mas quando contrata novos funcionários, eles irão. Portanto, certifique-se de adicionar pelo menos uma máquina de venda automática, uma máquina de café, um radiador, um ventilador e um banheiro separado antes de contratar novos funcionários.
 
-Click "Continue" to advance.</Message>
+Clique em "Continuar" para avançar.</Message>
 	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
 
 Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
