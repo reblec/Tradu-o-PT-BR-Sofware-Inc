@@ -70,24 +70,24 @@ Os computadores devem sentar-se em cima de uma mesa e enfrentar uma cadeira.</Me
 	<Message id="BUILD MODE13">Seu fundador não está cansado, com fome, frio, solitário, estressado, precisa de quebra de casa de banho ou fica irritado em geral, mas quando contrata novos funcionários, eles irão. Portanto, certifique-se de adicionar pelo menos uma máquina de venda automática, uma máquina de café, um radiador, um ventilador e um banheiro separado antes de contratar novos funcionários.
 
 Clique em "Continuar" para avançar.</Message>
-	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+	<Message id="BUILD MODE14">Agora, vamos atribuir o espaço para uma equipe, os funcionários de outras equipes não podem usá-lo ou mesmo passar por ele.
 
-Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
-	<Message id="BUILD MODE15">Remember to assign employees to a team as well. You can do this either by right clicking on an employee and choosing "Switch team", from the employees window or directly in the hiring window.
+Clique com o botão direito do mouse na sua nova sala e escolha "Trocar equipe". Uma janela irá aparecer, clique em "core" para atribuir o espaço para a equipe principal.</Message>
+	<Message id="BUILD MODE15">Lembre-se de atribuir funcionários a uma equipe também. Você pode fazer isso clicando com o botão direito do mouse em um empregado e escolhendo "Trocar equipe", na janela de funcionários ou diretamente na janela de contratação.
 
-Holding shift while clicking on objects, rooms or employees will allow you to select several at once, you can then right click anywhere to see the context menu. You can hold ctrl and the left mouse button down to select objects of the same type quickly.
+Segurando shift enquanto clica em objetos, salas ou funcionários permitir que você selecione vários ao mesmo tempo, você pode clique direito em qualquer lugar para ver o menu de contexto. Você pode segurar ctrl e o botão esquerdo do mouse para baixo para selecionar objetos do mesmo tipo rapidamente.
 
-Try selecting at least 2 things in the game.</Message>
-	<Message id="BUILD MODE16">You can merge rooms by using the "Destroy wall" tool, or by holding shift and clicking to select the rooms you want to merge, right click and then choose the "Merge rooms" option from the context menu.
+Tente selecionar pelo menos 2 coisas no jogo.</Message>
+	<Message id="BUILD MODE16">Você pode fundir salas usando a ferramenta "Destruir parede" ou segurando shift e clicando para selecionar as salas que deseja mesclar, clique com o botão direito e escolha a opção "Mesclar salas" no menu de contexto.
 
-Now, let's exit Build mode.</Message>
-	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
-	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
-	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+Agora, vamos sair do modo construção.</Message>
+	<Message id="BUILD MODE17">Quando estiver pronto, abra a janela dos funcionários para começar a gerenciar seus funcionários.</Message>
+	<Message id="CONTRACTS1">Comece abrindo a janela do contrato.</Message>
+	<Message id="CONTRACTS2">Esta é uma lista de contratos disponíveis. Novos contratos serão adicionados à medida que os mais antigos forem concluídos.
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. You complete a contract by delivering the code and art units requested.
+Os contratos têm pagamento antecipado que você receberá para aceitar o trabalho e um outro pagamento quando concluido. Você conclui um contrato entregando os códigos e as arte solicitadas.
 
-Try selecting a contract in the list now.</Message>
+Tente selecionar um contrato na lista agora.</Message>
 	<Message id="CONTRACTS3">The final payout will be subtracted from, for not completing the contract and on time, and for any unfixed bugs.
 
 Not living up to the clients quality expectations will impact your business reputation, but not your payout.
