@@ -88,36 +88,36 @@ Agora, vamos sair do modo construção.</Message>
 Os contratos têm pagamento antecipado que você receberá para aceitar o trabalho e um outro pagamento quando concluido. Você conclui um contrato entregando os códigos e as arte solicitadas.
 
 Tente selecionar um contrato na lista agora.</Message>
-	<Message id="CONTRACTS3">The final payout will be subtracted from, for not completing the contract and on time, and for any unfixed bugs.
+	<Message id="CONTRACTS3">O pagamento final será deduzido multa caso não completar o contrato no tempo, e por quaisquer bugs não corrigidos.
 
-Not living up to the clients quality expectations will impact your business reputation, but not your payout.
+Não viver até as expectativas de qualidade dos clientes afetará sua reputação comercial, mas não seu pagamento.
 
-Browse the contracts now and accept one that requires some code units.</Message>
-	<Message id="CONTRACTS4">Until an employee actually starts working on the contract, the deadline will not count down.
+Procure os contratos agora e aceite um que requer algumas unidades de código.</Message>
+	<Message id="CONTRACTS4">Até que um funcionário realmente comece a trabalhar no contrato, o prazo não começará a contar.
 
-During the design phase, your employees will reduce bugs in the final delivery and increase quality. Make sure you Promote your design as soon as the progress bar reaches the end, to avoid over engineering.</Message>
-	<Message id="CONTRACTS5">When code and art units (if any) reaches the client's target value, you have completed the contract, you can continue working on it if you want to deliver a better product.
+Durante a fase de projeto, seus funcionários reduzirão os bugs na entrega final e aumentarão a qualidade. Lembre-se de promover seu projeto assim que a barra de progresso chegar ao final, para evitar a engenharia excessiva.</Message>
+	<Message id="CONTRACTS5">Quando o código e as unidades de arte (se houver) atingem o valor-alvo do cliente, você terá concluido contrato, você pode continuar trabalhando nele se quiser entregar um produto melhor.
 
-Make sure you do a client review before you move on to the bug fixing stage, to make sure it lives up to their quality expectations.</Message>
-	<Message id="CONTRACTS6">When you are ready, move on to the bug fixing stage.
+Certifique-se de fazer uma revisão do cliente antes de passar para a fase de correção de bugs, para certificar-se ele faz jus às suas expectativas de qualidade.</Message>
+	<Message id="CONTRACTS6">Quando estiver pronto, avance para o estágio de correção de bugs.
 
-It's impossible to know exactly how many bugs a piece of software has, so just try to fix as many as you can before time runs out.</Message>
-	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
-	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
-	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
-	<Message id="CUSTOMIZATION4">And a gender.</Message>
-	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
-	
-You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
-	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
+É impossível saber exatamente quantos erros um pedaço de software tem, então tente apenas consertar o máximo que puder antes que o tempo acabe.</Message>
+	<Message id="CUSTOMIZATION1">Bem-vindo à tela de personalização. Pressione "Continuar" para avançar o tutorial ou "Cancelar" para sair.</Message>
+	<Message id="CUSTOMIZATION2">Comece escolhendo um nome para sua empresa.</Message>
+	<Message id="CUSTOMIZATION3">Em seguida, escolha um nome para o seu fundador.</Message>
+	<Message id="CUSTOMIZATION4">E um gênero.</Message>
+	<Message id="CUSTOMIZATION5">Você pode usar esses botões para escolher um aspecto da aparência do seu fundador que você deseja alterar.
 
-You can choose two traits, which will affect your founder's behavior, listed below, and inter-office relationships.</Message>
-	<Message id="CUSTOMIZATION8">Here you can pick you founder's skill points and specializations, which will affect the performance of your founder.
+Você pode alterar a forma do rosto e das sobrancelhas clicando no primeiro botão, e o último botão permite que você escolha as cores da pele, cabelo, acessórios e roupas do seu fundador.</Message>
+	<Message id="CUSTOMIZATION7">Aqui você pode escolher os traços de personalidade do seu fundador.
 
-Specializations are limited by skill, so if your founder has low design skill, he/she will also be low skilled in the design specialization you pick.
+Você pode escolher dois traços, que afetarão o comportamento do seu fundador, listados abaixo e relacionamentos entre escritórios.</Message>
+	<Message id="CUSTOMIZATION8">Aqui você pode escolher os pontos de habilidade e as especializações do fundador, o que afetará o desempenho do seu fundador.
 
-You can further educate and train your founder to gain skill and specializations in the game.</Message>
-	<Message id="CUSTOMIZATION9">You are now done customizing your founder. Let's begin choosing the rules of the game!</Message>
+As especializações são limitadas pela habilidade, portanto, se seu fundador tiver pouca habilidade de design, ele / ela também será pouco qualificado na especialização de design que escolher.
+
+Você pode educar e treinar seu fundador para obter habilidades e especializações no jogo.</Message>
+	<Message id="CUSTOMIZATION9">Agora você acabou de personalizar o seu fundador. Vamos começar a escolher as regras do jogo!</Message>
 	<Message id="CUSTOMIZATION10">You can enable any mods here, which will be bound to the game forever.
 
 You can share your game with others, without them having to install the mods.
